@@ -38,10 +38,8 @@ Hi! This is Qianchi Zhang, a first-year PhD student at School of Artificial Inte
 
 
 # 📖 Educations
-
-# 📖 Educations
-- *2025.09 - Present *, PhD Student. School of Artificial Intelligence, Beihang University.
-- *2023.09 - 2025.06 *, Master. School of Artificial Intelligence, Beihang University.
+- *2025.09 - Present*, PhD Student. School of Artificial Intelligence, Beihang University.
+- *2023.09 - 2025.06*, Master. School of Artificial Intelligence, Beihang University.
 - *2019.09 - 2023.06*, Undergraduate. School of Information Science and Technology of BJFU.
 
 
