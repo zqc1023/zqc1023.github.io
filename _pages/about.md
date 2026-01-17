@@ -1,12 +1,4 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -16,6 +8,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+
 
 # 💡 About Me
 
@@ -27,12 +21,12 @@ Hi! This is Qianchi Zhang, a first-year PhD student at School of Artificial Inte
 
 # 📝 Publications 
 
-- ``WWW 2026``   [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning](https://arxiv.org/abs/2502.11811). **Qianchi Zhang**, Hainan Zhang#, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng.
+- ``WWW 2026``   [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning](https://arxiv.org/pdf/2502.11811). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng.
 
 # 📄  Preprints
 
-- ``Preprint``   [Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/abs/2601.02993). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng. 
-- ``Preprint``   [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2409.01579). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.
+- ``Preprint``   [Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.02993). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng. 
+- ``Preprint``   [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2409.01579). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.
 
 # 📖 Educations
 - *2025.09 - Present*, PhD Student. School of Artificial Intelligence, Beihang University.
@@ -42,4 +36,4 @@ Hi! This is Qianchi Zhang, a first-year PhD student at School of Artificial Inte
 
 
 # 💻 Internships
-- *2022.10 - 2023.01, Zhihu. Beijing, China.
+- *2022.10 - 2023.01*, Zhihu. Beijing, China.
