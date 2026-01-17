@@ -13,7 +13,7 @@
 
 # 💡 About Me
 
-Hi! This is Qianchi Zhang, a first-year PhD student at School of Artificial Intelligence  of **Beihang University**, supervised by [Hainan Zhang](https://zhanghainan.github.io/). My research focuses on Trustworthy AI, Large Language Models and Information Retrieval.
+Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Artificial Intelligence  of **Beihang University**, supervised by [Hainan Zhang](https://zhanghainan.github.io/). My research focuses on Trustworthy AI, Large Language Models and Information Retrieval.
 
 
 # 🔥 News
