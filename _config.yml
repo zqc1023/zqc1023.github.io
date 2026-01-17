@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qianchi Zhang (张谦驰)"
-description              : "Homepage of Qianchi Zhang. zhangqianchi@buaa.edu.cn"
+description              : "zhangqianchi@buaa.edu.cn"
 repository               : "zqc1023/zqc1023.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qianchi Zhang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/images.jpg"
   bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
