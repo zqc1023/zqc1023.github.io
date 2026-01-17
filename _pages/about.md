@@ -27,15 +27,12 @@ Hi! This is Qianchi Zhang, a first-year PhD student at School of Artificial Inte
 
 # 📝 Publications 
 
-- ``(CCF A)``  **Qianchi Zhang**, Hainan Zhang#, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng. Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.[C]//WWW 2026.
-- 
+- ``WWW 2026``   [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning](https://arxiv.org/abs/2502.11811). **Qianchi Zhang**, Hainan Zhang#, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng.
 
 # 📄  Preprints
 
-- Qianchi Zhang, **Hainan Zhang#**, Liang Pang, Hongwei Zheng, Zhiming Zheng. Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation[J]. arXiv preprint arXiv:2601.02993, 2026
-- **Qianchi Zhang**, Hainan Zhang#, Liang Pang, Hongwei Zheng, Zhiming Zheng. AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models[J]. arXiv preprint arXiv:2409.01579, 2024.
-
-
+- ``Preprint``   [Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/abs/2601.02993). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng. 
+- ``Preprint``   [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2409.01579). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.
 
 # 📖 Educations
 - *2025.09 - Present*, PhD Student. School of Artificial Intelligence, Beihang University.
@@ -45,4 +42,4 @@ Hi! This is Qianchi Zhang, a first-year PhD student at School of Artificial Inte
 
 
 # 💻 Internships
-- *2022.10 - 2023.01*, Zhihu. Beijing, China.
+- *2022.10 - 2023.01, Zhihu. Beijing, China.
