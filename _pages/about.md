@@ -21,7 +21,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 📝 Publications 
 
-- ``WWW 2026``   [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning](https://arxiv.org/pdf/2502.11811). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng.
+- ==WWW 2026==   [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning](https://arxiv.org/pdf/2502.11811). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng.
 
 # 📄  Preprints
 
