@@ -21,14 +21,14 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 📝 Publications 
 
-- `WWW 2026`   [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning](https://arxiv.org/pdf/2502.11811). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng.
+- **Qianchi Zhang**, Hainan Zhang, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning ](https://arxiv.org/pdf/2502.11811). In *Proceedings of the ACM Web Conference 2026* **(WWW 26)**.
 
 # 📄  Preprints
 
-- ``Preprint``   [Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.02993). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng. 
-- ``Preprint``   [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2409.01579). **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.
+- **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.  [Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.02993). *Preprint*, arXiv:2601.02993, 2026.
+- **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.  [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2409.01579). *Preprint*, arXiv:2409.01579, 2024.
 
-# 📖 Educations
+# 📖 Educationså
 - *2025.09 - Present*, PhD Student. School of Artificial Intelligence, Beihang University.
 - *2023.09 - 2025.06*, Master. School of Artificial Intelligence, Beihang University.
 - *2019.09 - 2023.06*, Undergraduate. School of Information Science and Technology, Beijing Forestry University.
