@@ -28,7 +28,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 - **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.  [Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.02993). *Preprint*, arXiv:2601.02993, 2026.
 - **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.  [AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2409.01579). *Preprint*, arXiv:2409.01579, 2024.
 
-# 📖 Educationså
+# 📖 Educations
 - *2025.09 - Present*, PhD Student. School of Artificial Intelligence, Beihang University.
 - *2023.09 - 2025.06*, Master. School of Artificial Intelligence, Beihang University.
 - *2019.09 - 2023.06*, Undergraduate. School of Information Science and Technology, Beijing Forestry University.
