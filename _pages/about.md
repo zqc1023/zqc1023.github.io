@@ -33,11 +33,19 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 ### 2026
 
-- **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.  [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation**](https://arxiv.org/pdf/2601.02993). *Preprint*, arXiv:2601.02993, 2026.
+- [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation**](https://arxiv.org/pdf/2601.02993)
+
+  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
+
+  <span style="font-size: 0.87em; color: #444444;"><img src="./images/logo-venue.png" style="width: 0.975em; position: relative; top: -0.115em; margin-left: 0.005em;"> **arXiv:2601.02993, 2026.**</span>
 
 ### 2024
 
-- **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng.  [**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models**](https://arxiv.org/pdf/2409.01579). *Preprint*, arXiv:2409.01579, 2024.
+-  [**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models**](https://arxiv.org/pdf/2409.01579).
+
+  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
+
+  <span style="font-size: 0.87em; color: #444444;"><img src="./images/logo-venue.png" style="width: 0.975em; position: relative; top: -0.115em; margin-left: 0.005em;"> **arXiv:2409.01579, 2024.**</span>
 
 # 📖 Educations
 - *2025.09 - Present*, PhD Student. School of Artificial Intelligence, Beihang University.
