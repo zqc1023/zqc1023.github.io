@@ -23,7 +23,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 ### 2026
 
-- [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning** ](https://arxiv.org/pdf/2502.11811).
+- [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)
 
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
   
@@ -41,7 +41,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 ### 2024
 
-- [**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models**](https://arxiv.org/pdf/2409.01579).
+- [**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.**](https://arxiv.org/pdf/2409.01579)
 
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
 
