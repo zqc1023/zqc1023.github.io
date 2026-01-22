@@ -13,15 +13,18 @@
 
 # 💡 About Me
 
-Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Artificial Intelligence  of **Beihang University**, supervised by [Hainan Zhang](https://zhanghainan.github.io/). My research focuses on Trustworthy AI, Large Language Models and Information Retrieval.
+Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Artificial Intelligence  of **Beihang University**, supervised by Prof. [Hainan Zhang](https://zhanghainan.github.io/). My research focuses on Trustworthy AI, Large Language Models and Information Retrieval.
 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper "Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning" is accepted by The ACM Web Conference 2026 **(WWW 2026)**.
 
-# 📝 Publications 
+# 📝 Publications
 
-- **Qianchi Zhang**, Hainan Zhang, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning ](https://arxiv.org/pdf/2502.11811). In *Proceedings of the ACM Web Conference 2026* **(WWW 26)**.
+- [Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning ](https://arxiv.org/pdf/2502.11811).
+
+  <img src="/Users/alex/zqc1023.github.io/images/logo-author.png" alt="img" style="zoom:8%;" /> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
+  <img src="https://zqc1023.github.io/images/logo-venue.png" alt="img" style="zoom:7%;" />  <span style="color:red">**WWW 2026 (CCF-A)**</span>
 
 # 📄  Preprints
 
