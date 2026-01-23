@@ -63,6 +63,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 🌍 Website Visiting Map
 
-<div style="width:300px; height:200px; overflow:hidden; margin:auto;">
+<div style="width:200px; height:150px; overflow:hidden; margin:auto;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FFF0mehfl7qnuAhmvFNanEsdk1xda25HGeaSX5TTcFs&cl=ffffff&w=a"></script>
 </div>
