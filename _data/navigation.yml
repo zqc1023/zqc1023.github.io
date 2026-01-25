@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Preprints"
-    url: "/#Preprints"
+    url: "/#preprints"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
