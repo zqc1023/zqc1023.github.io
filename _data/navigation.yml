@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Preprints"
-    url: "/#-preprints"
+    url: "/#Preprints"
 
   - title: "Educations"
     url: "/#-educations"
