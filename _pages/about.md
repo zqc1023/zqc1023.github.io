@@ -66,9 +66,14 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 <span class="anchor" id="educations"></span>
 
 # 📖 Educations
-- *2025.09 - Present*, PhD Student. School of Artificial Intelligence, Beihang University.
-- *2023.09 - 2025.06*, Master. School of Artificial Intelligence, Beihang University.
-- *2019.09 - 2023.06*, Undergraduate. School of Information Science and Technology, Beijing Forestry University.
+- **Sep. 2025 – Present**  
+  Ph.D. Student, School of Artificial Intelligence, Beihang University
+
+- **Sep. 2023 – Jun. 2025**  
+  M.S. Student, School of Artificial Intelligence, Beihang University
+
+- **Sep. 2019 – Jun. 2023**  
+  B.S. Student, School of Information Science and Technology, Beijing Forestry University
 
 <span class="anchor" id="internships"></span>
 
