@@ -9,8 +9,8 @@ main:
   - title: "Selected Publications"
     url: "/#publications"
 
-  # - title: "Preprints"
-  #   url: "/#preprints"
+  - title: "Academic Services"
+    url: "/#services"
 
   - title: "Educations"
     url: "/#educations"

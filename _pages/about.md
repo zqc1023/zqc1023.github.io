@@ -21,9 +21,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper "Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning" is accepted by The ACM Web Conference 2026 **(WWW 2026)**.
-
-
+- ``2026.01``: &nbsp;🎉🎉 One paper accepted to *WWW 2026*
 
 
 
@@ -60,6 +58,16 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
   <span style="font-size: 14px; background-color: #E0E0E0; color: #555; font-weight: 600; padding: 2px 6px; border-radius: 999px; margin-right: 6px;"> arXiv,  2024
   </span>
+
+
+
+<span class="anchor" id="services"></span>
+
+# 🧑‍⚖️ Academic Services
+
+- **Reviewer for**
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - IEEE Transactions on Multimedia (TMM)
 
 <span class="anchor" id="educations"></span>
 
