@@ -31,10 +31,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 📝 Publications
 
-| <p style="font-size: 16px;">      |
-| --------------------------------- |
-| <sup>†</sup> Corresponding Author |
-| </p>                              |
+<sup>*</sup> Contributed Equally; <sup>†</sup> Corresponding Author
 
 ### 2026
 
@@ -43,20 +40,16 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
   
   <span style="font-size: 16px; background-color: #FFD700; color: #333; font-weight: bold; padding: 3px 6px; border-radius: 5px;">WWW, 2026</span>
-
-
-
-<span class="anchor" id="preprints"></span>
-
-# 📄  Preprints
-
-### 2026
-
+  
 - [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.**](https://arxiv.org/pdf/2601.02993)
 
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
-
-  <span style="font-size: 0.87em; color: #444444;"><img src="./images/logo-venue.png" style="width: 0.975em; position: relative; top: -0.115em; margin-left: 0.005em;"> **arXiv:2601.02993, 2026.**</span>
+  
+  <span style="font-size: 0.87em; color: #444444;"><img src="./images/logo-venue.png" style="width: 0.975em; position: relative; top: -0.115em; margin-left: 0.005em;"> <span style="font-size: 16px; background-color: #E0E0E0; color: #555; font-weight: bold; padding: 3px 6px; border-radius: 5px;">arXiv, 2025</span></span>
+  
+  
+  
+  
 
 ### 2024
 
@@ -65,6 +58,16 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
 
   <span style="font-size: 0.87em; color: #444444;"><img src="./images/logo-venue.png" style="width: 0.975em; position: relative; top: -0.115em; margin-left: 0.005em;"> **arXiv:2409.01579, 2024.**</span>
+
+<span class="anchor" id="preprints"></span>
+
+# 📄  Preprints
+
+### 2026
+
+- 
+
+- 
 
 
 
