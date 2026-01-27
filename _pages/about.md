@@ -31,13 +31,18 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 📝 Publications
 
+| <p style="font-size: 16px;">      |
+| --------------------------------- |
+| <sup>†</sup> Corresponding Author |
+| </p>                              |
+
 ### 2026
 
 - [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)
 
-  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
+  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
   
-  <span style="font-size: 0.87em; color: #c00000;"><img src="./images/logo-venue.png" style="width: 0.975em; position: relative; top: -0.115em; margin-left: 0.005em;"> **WWW 2026 (CCF-A)**</span>
+  <span style="font-size: 16px; background-color: #FFD700; color: #333; font-weight: bold; padding: 3px 6px; border-radius: 5px;">WWW, 2026</span>
 
 
 
