@@ -37,9 +37,24 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
   
-  <span style="font-size: 14px; background-color: #FFD700; color: #333; font-weight: 600; padding: 2px 6px; border-radius: 999px; margin-right: 6px;">
+  <span style="
+    font-size: 14px;
+    background-color: #C62828;  
+    color: #FFFFFF;           
+    font-weight: 600;
+    padding: 2px 4.5px;
+    border-radius: 6px;
+    margin-right: 6px;
+  ">
     WWW 2026
-  </span><span style="font-size: 13px; background-color: #D1E7DD; color: #C62828; font-weight: 600; padding: 2px 5px; border-radius: 4px;">
+  </span><span style="
+    font-size: 13px;
+    background-color: #2E7D32;  
+    color: #FFFFFF;           
+    font-weight: 600;
+    padding: 2px 4.5px;
+    border-radius: 999px;
+  ">
     CCF A
   </span>
   
@@ -47,7 +62,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
   
-  <span style="font-size: 14px; background-color: #E0E0E0; color: #555; font-weight: 600; padding: 2px 6px; border-radius: 999px; margin-right: 6px;"> arXiv 2026
+  <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2026
   </span>
 
 ### 2024
@@ -56,8 +71,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
 
-  <span style="font-size: 14px; background-color: #E0E0E0; color: #555; font-weight: 600; padding: 2px 6px; border-radius: 999px; margin-right: 6px;"> arXiv 2024
-  </span>
+  <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2024 </span>
 
 
 
