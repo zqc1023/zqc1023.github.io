@@ -61,8 +61,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
   
   <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2026</span>
-  
-  
 
 ### 2024
 
