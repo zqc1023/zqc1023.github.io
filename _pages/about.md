@@ -39,7 +39,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   
   <span style="
     font-size: 14px;
-    background-color: #C62828;  
+    background-color: #2E7D32;  
     color: #FFFFFF;           
     font-weight: 600;
     padding: 2px 4.5px;
@@ -47,12 +47,12 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
     margin-right: 6px;
   ">   WWW 2026</span><span style="
     font-size: 13px;
-    background-color: #2E7D32;  
+    background-color: #C62828;  
     color: #FFFFFF;           
     font-weight: 600;
     padding: 2px 4.5px;
     border-radius: 999px;
-  ">CCF A</span>
+  ">CCF A</span> 
   
 - [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.**](https://arxiv.org/pdf/2601.02993)
 
