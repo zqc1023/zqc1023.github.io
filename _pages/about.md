@@ -29,13 +29,13 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 📝 Selected Publications
 
-<sup>*</sup> Equal Contribution; <sup>†</sup> Corresponding Author
+<sup>*****</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author
 
 ### 2026
 
 - [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)
 
-  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
+  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
   
   <span style="
     font-size: 14px;
@@ -56,7 +56,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   
 - [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.**](https://arxiv.org/pdf/2601.02993)
 
-  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
+  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
   
   <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2026</span>
 
@@ -64,7 +64,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 - [**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.**](https://arxiv.org/pdf/2409.01579)
 
-  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
+  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
 
   <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2024</span>
 
