@@ -52,9 +52,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
     font-weight: 600;
     padding: 2px 4.5px;
     border-radius: 6px;
-  ">
-    CCF A
-  </span>
+  ">CCF A</span>
   
 - [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.**](https://arxiv.org/pdf/2601.02993)
 
