@@ -21,7 +21,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 
 # 🔥 News
-- ``2026.01``: &nbsp;🎉🎉 One paper accepted to *WWW 2026*
+- ``2026.01``: &nbsp;🎉🎉 One paper accepted to [*THE ACM WEB CONFERENCE 2026.*](https://www2026.thewebconf.org/)
 
 
 
