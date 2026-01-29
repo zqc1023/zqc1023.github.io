@@ -29,7 +29,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 📝 Selected Publications
 
-<sup>*****</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author
+<sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author
 
 ### 2026
 
@@ -51,7 +51,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
     color: #FFFFFF;           
     font-weight: 600;
     padding: 2px 4.5px;
-    border-radius: 6px;
+    border-radius: 999px;
   ">CCF A</span>
   
 - [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.**](https://arxiv.org/pdf/2601.02993)
