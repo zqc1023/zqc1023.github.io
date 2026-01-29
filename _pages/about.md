@@ -95,4 +95,3 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 💻 Internships
 - *2022.10 - 2023.01*, Zhihu. Beijing, China.
-
