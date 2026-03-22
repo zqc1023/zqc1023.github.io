@@ -59,8 +59,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   </tr>
 </table>
 
----
-
 <!-- Stable-RAG -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
@@ -86,8 +84,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
     </td>
   </tr>
 </table>
-
----
 
  <!-- AdaComp -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
