@@ -47,8 +47,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
       </a>
       <br/>
-     
-    
+
+
+​    
       <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
@@ -77,8 +78,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</strong>
       </a>
       <br/>
-      
-    
+
+
+​    
        <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
@@ -107,8 +109,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</strong>
       </a>
       <br/>
-      
-    
+
+
+​    
        <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
@@ -124,22 +127,16 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 🧑‍⚖️ Academic Services
 
-- **Reviewer for**
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  - IEEE Transactions on Multimedia (TMM)
-  - Journal of Medical Internet Research (JMIR)
+- **Program Committee / Reviewer**: TKDE, TMM
 
 <span class="anchor" id="educations"></span>
 
 # 📖 Educations
-- **Sep. 2025 – Present**  
-  Ph.D. Student, School of Artificial Intelligence, Beihang University
-
-- **Sep. 2023 – Jun. 2025**  
-  M.S. Student, School of Artificial Intelligence, Beihang University
-
-- **Sep. 2019 – Jun. 2023**  
-  B.S. Student, School of Information Science and Technology, Beijing Forestry University
+- **Sep. 2025 – Present**, Ph.D. Student, School of Artificial Intelligence, Beihang University
+  
+- **Sep. 2023 – Jun. 2025**, M.S. Student, School of Artificial Intelligence, Beihang University
+  
+- **Sep. 2019 – Jun. 2023**, B.S. Student, School of Information Science and Technology, Beijing Forestry University
 
 <span class="anchor" id="internships"></span>
 
