@@ -40,28 +40,21 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         style="width:160px; display:block; border-radius:6px;"
       />
     </td>
-
     <td style="vertical-align:top; border:none!important; background:none!important;">
     
       <a href="https://arxiv.org/pdf/2502.11811" target="_blank">
         <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
       </a>
       <br/>
-
-
-​    
       <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
-
         <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026) | <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
       <br/>
     </td>
   </tr>
-
-
 
   <!-- Stable-RAG -->
   <tr style="border:none; background:none;">
@@ -71,22 +64,16 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         style="width:160px; display:block; border-radius:6px;"
       />
     </td>
-
     <td style="vertical-align:top; border:none!important; background:none!important;">
     
       <a href="https://arxiv.org/pdf/2601.02993" target="_blank">
         <strong>Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</strong>
       </a>
       <br/>
-
-
-​    
        <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-    
-    
       <div class="fs-14 lh-15"><i class="fa fa-bank"></i> ArXiv 2026
         </div>
     
@@ -102,16 +89,12 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         style="width:160px; display:block; border-radius:6px;"
       />
     </td>
-
     <td style="vertical-align:top; border:none!important; background:none!important;">
     
       <a href="https://arxiv.org/pdf/2409.01579" target="_blank">
         <strong>AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</strong>
       </a>
       <br/>
-
-
-​    
        <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
