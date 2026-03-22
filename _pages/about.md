@@ -64,10 +64,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 <!-- Stable-RAG -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
-    <td style="width:240px; vertical-align:top; border:none!important; background:none!important;">
+    <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
   <img
     src="./images/paper/Stable-RAG.png"
-    style="width:220px; max-width:100%; display:block; border-radius:6px;"
+    style="width:170px; max-width:100%; display:block; border-radius:6px;"
   />
 </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
@@ -92,10 +92,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
  <!-- AdaComp -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
-    <td style="width:240px; vertical-align:top; border:none!important; background:none!important;">
+    <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
       <img
     src="./images/paper/AdaComp.png"
-    style="width:220px; max-width:100%; display:block; border-radius:6px;"
+    style="width:170px; max-width:100%; display:block; border-radius:6px;"
       />
     </td>
 
