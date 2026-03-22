@@ -72,7 +72,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 - [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)  
 
-   <div class="fs-14 lh-15"><i class="fa fa-user"></i> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.</div>
+  <div class="fs-14 lh-15">
+    <i class="fa fa-user"></i>
+    <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
+  </div>
 
     <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
 
