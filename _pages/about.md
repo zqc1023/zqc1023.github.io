@@ -76,18 +76,15 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
-
     <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
-
-
-
+    
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
 
   <!-- CompSelect -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
-        src="./images/CompSelect.png"
+        src="./images/paper/CompSelect.png"
         style="width:160px; display:block; border-radius:6px;"
       />
     </td>
@@ -106,7 +103,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       <br/>
         <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
       <br/>
-    
     </td>
   </tr>
 
@@ -114,7 +110,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
-        src="./images/stable_rag_model.png"
+        src="./images/paper/Stable-RAG.png"
         style="width:160px; display:block; border-radius:6px;"
       />
     </td>
@@ -140,11 +136,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   </tr>
 
 
-  <!-- Paper 3 -->
+  <!-- AdaComp -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
-        src="./images/CompSelect.png"
+        src="./images/paper/AdaComp.png"
         style="width:160px; display:block; border-radius:6px;"
       />
     </td>
