@@ -29,59 +29,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 # 📝 Selected Publications
 
-<sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author
-
-
-
-- [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)
-
-  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng. </span>
-  
-  Proceedings of the ACM Web Conference 2026 (WWW 2026)
-  
-  <span style="
-    font-size: 14px;
-    background-color: #2E7D32;  
-    color: #FFFFFF;           
-    font-weight: 600;
-    padding: 2px 4.5px;
-    border-radius: 6px;
-    margin-right: 6px;
-  ">   WWW 2026</span><span style="
-    font-size: 13px;
-    background-color: #C62828;  
-    color: #FFFFFF;           
-    font-weight: 600;
-    padding: 2px 4.5px;
-    border-radius: 999px;
-  ">CCF A</span> 
-  
-- [**Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.**](https://arxiv.org/pdf/2601.02993)
-
-  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
-  
-  <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2026</span>
-  
-  
-
-- [**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.**](https://arxiv.org/pdf/2409.01579)
-
-  <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
-
-  <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2024</span>
-
-- [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)  
-
-  <div class="fs-14 lh-15">
-    <i class="fa fa-user"></i>
-    <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
-  </div>
-    <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
-    
-    
+<sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author  
 
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
-
   <!-- CompSelect -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
@@ -97,15 +47,19 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
       </a>
       <br/>
+      <br/>
     
       <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
+
         <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
       <br/>
     </td>
   </tr>
+
+
 
   <!-- Stable-RAG -->
   <tr style="border:none; background:none;">
