@@ -44,7 +44,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
     <td style="vertical-align:top; border:none!important; background:none!important;">
 
-      <a href="https://arxiv.org/pdf/2502.11811" target="_blank" style="text-decoration: none; color: #2c3e50; font-weight: bold;">
+      <a href="https://arxiv.org/pdf/2502.11811" target="_blank" style="text-decoration: none; color: #3e92e6; font-weight: bold;">
     Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.
 </a>
       
