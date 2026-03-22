@@ -83,11 +83,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
 
-  <!-- Paper 1 -->
+  <!-- CompSelect -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
-        src="./images/www2026_model.png"
+        src="./images/CompSelect.png"
         style="width:160px; display:block; border-radius:6px;"
       />
     </td>
@@ -99,28 +99,18 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       </a>
       <br/>
     
-      <span style="font-size: 0.869em;">
-        <img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;">
-        <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
-      </span>
+      <div class="fs-14 lh-15">
+    <i class="fa fa-user"></i>
+    <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
+  </div>
       <br/>
-    
-      Proceedings of the ACM Web Conference 2026 (WWW 2026)
+        <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
       <br/>
-    
-      <span style="font-size: 14px; background-color: #2E7D32; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;">
-        WWW 2026
-      </span>
-    
-      <span style="font-size: 13px; background-color: #C62828; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 999px;">
-        CCF A
-      </span>
     
     </td>
   </tr>
 
-
-  <!-- Paper 2 -->
+  <!-- Stable-RAG -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
