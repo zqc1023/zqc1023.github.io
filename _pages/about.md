@@ -70,7 +70,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
   <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2024</span>
 
-\- [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)   <div class="fs-14 lh-15"><i class="fa fa-user"></i> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.</div>  <div class="fs-14 lh-15"><i class="fa fa-bank"></i> The Web Conference (WWW 2026)</div>
+- [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)   <div class="fs-14 lh-15"><i class="fa fa-user"></i> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.</div>  <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
 
 <span class="anchor" id="services"></span>
 
