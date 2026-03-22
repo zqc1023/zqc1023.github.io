@@ -47,8 +47,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       <a href="https://arxiv.org/pdf/2502.11811" target="_blank">
         <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
       </a>
-      <br/>
-      <div class="fs-14 lh-15">
+      
+      <div class="fs-14 lh-15" style="margin-top:8px;">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
@@ -75,8 +75,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       <a href="https://arxiv.org/pdf/2601.02993" target="_blank">
         <strong>Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</strong>
       </a>
-      <br/>
-       <div class="fs-14 lh-15">
+      
+      <div class="fs-14 lh-15" style="margin-top:8px;">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
@@ -104,8 +104,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       <a href="https://arxiv.org/pdf/2409.01579" target="_blank">
         <strong>AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</strong>
       </a>
-      <br/>
-       <div class="fs-14 lh-15">
+      
+       <div class="fs-14 lh-15" style="margin-top:8px;">
     <i class="fa fa-user"></i>
     <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
