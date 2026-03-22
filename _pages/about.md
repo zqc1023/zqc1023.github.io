@@ -47,7 +47,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
       </a>
       <br/>
-      <br/>
+     
     
       <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
@@ -77,7 +77,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</strong>
       </a>
       <br/>
-      <br/>
+      
     
        <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
@@ -107,7 +107,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</strong>
       </a>
       <br/>
-      <br/>
+      
     
        <div class="fs-14 lh-15">
     <i class="fa fa-user"></i>
