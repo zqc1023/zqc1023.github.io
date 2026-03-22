@@ -35,10 +35,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 <!-- CompSelect -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
-    <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
+    <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
       <img
     src="./images/paper/CompSelect.png"
-    style="width:160px; max-width:100%; display:block; border-radius:6px;"
+    style="width:185px; max-width:100%; display:block; border-radius:6px;"
       />
     </td>
 
@@ -62,10 +62,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 <!-- Stable-RAG -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
-    <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
+    <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
   <img
     src="./images/paper/Stable-RAG.png"
-    style="width:160px; max-width:100%; display:block; border-radius:6px;"
+    style="width:185px; max-width:100%; display:block; border-radius:6px;"
   />
 </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
@@ -88,10 +88,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
  <!-- AdaComp -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
-    <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
+    <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
       <img
     src="./images/paper/AdaComp.png"
-    style="width:160px; max-width:100%; display:block; border-radius:6px;"
+    style="width:185px; max-width:100%; display:block; border-radius:6px;"
       />
     </td>
 
