@@ -21,7 +21,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 My first-author paper ‘‘Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.’’ is accepted by **([WWW 2026](https://www2026.thewebconf.org/))**! 
+- **2026.01**: &nbsp;🎉🎉 My first-author paper ‘‘Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.’’ is accepted by **([WWW 2026](https://www2026.thewebconf.org/))**! 
 
 
 
@@ -31,8 +31,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 <sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author  
 
+
+<!-- CompSelect -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
-  <!-- CompSelect -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
@@ -59,8 +60,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 ---
 
+<!-- Stable-RAG -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
-  <!-- Stable-RAG -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
@@ -86,9 +87,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 </table>
 
 ---
-
+ <!-- AdaComp -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
-  <!-- AdaComp -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
@@ -122,11 +122,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 <span class="anchor" id="educations"></span>
 
 # 📖 Educations
-- **Sep. 2025 – Present**, Ph.D. Student, School of Artificial Intelligence, Beihang University
+- **2025.9 – Present**, Ph.D. Student, School of Artificial Intelligence, Beihang University.
   
-- **Sep. 2023 – Jun. 2025**, M.S. Student, School of Artificial Intelligence, Beihang University
+- **2023.9 – 2025.6**, M.S. Student, School of Artificial Intelligence, Beihang University.
   
-- **Sep. 2019 – Jun. 2023**, B.S. Student, School of Information Science and Technology, Beijing Forestry University
+- **2019.9 – 2023.6**, B.S. Student, School of Information Science and Technology, Beijing Forestry University.
 
 <span class="anchor" id="internships"></span>
 
