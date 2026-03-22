@@ -52,7 +52,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
-        <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026) | <span style="color:#C62828; font-weight:600;">CCF A</span>
+        <div class="fs-14 lh-15"><i class="fa fa-bank"></i> The ACM Web Conference 2026 (WWW 2026) | <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
 ​      <br/>
 ​    </td>
