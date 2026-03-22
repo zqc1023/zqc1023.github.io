@@ -58,7 +58,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   </tr>
 </table>
 
-<hr style="border: none; height: 2px; background-color: #999; margin: 24px 0;">
+<hr style="border: none; height: 1px; background-color: #c7c7c7; margin: 20px 0;">
 
 <!-- Stable-RAG -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
@@ -86,7 +86,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   </tr>
 </table>
 
-<hr style="border: none; height: 2px; background-color: #999; margin: 24px 0;">
+<hr style="border: none; height: 1px; background-color: #c7c7c7; margin: 20px 0;">
 
  <!-- AdaComp -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
