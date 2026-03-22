@@ -21,7 +21,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 
 # 🔥 News
-- ``2026.01``: &nbsp;🎉🎉 One paper accepted to [*THE ACM WEB CONFERENCE 2026.*](https://www2026.thewebconf.org/)
+- - *2026.01*: &nbsp;🎉🎉 My first-author paper ‘‘Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.’’ is accepted by **([WWW 2026](https://www2026.thewebconf.org/))**! 
 
 
 
