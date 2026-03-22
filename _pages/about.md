@@ -41,7 +41,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
-    
+
       <a href="https://arxiv.org/pdf/2502.11811" target="_blank">
         <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
       </a>
@@ -52,10 +52,14 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   </div>
         <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026) | <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
-      <br/>
-    </td>
+​      <br/>
+​    </td>
   </tr>
+</table>
 
+---
+
+<table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <!-- Stable-RAG -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
@@ -65,7 +69,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
-    
+
       <a href="https://arxiv.org/pdf/2601.02993" target="_blank">
         <strong>Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</strong>
       </a>
@@ -79,8 +83,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
     
     </td>
   </tr>
+</table>
 
+---
 
+<table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <!-- AdaComp -->
   <tr style="border:none; background:none;">
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
@@ -90,7 +97,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
-    
+
       <a href="https://arxiv.org/pdf/2409.01579" target="_blank">
         <strong>AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</strong>
       </a>
