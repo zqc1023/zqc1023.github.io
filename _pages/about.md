@@ -48,11 +48,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
       </a>
       
-      <div class="fs-14 lh-15" style="margin-top:8px;">
+      <div class="fs-14 lh-15" style="margin-top:10px;">
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
-        <div class="fs-14 lh-15" style="margin-top:4px;"><i class="fa fa-bank"></i> The ACM Web Conference 2026 (WWW 2026) | <span style="color:#C62828; font-weight:600;">CCF A</span>
+        <div class="fs-14 lh-15" style="margin-top:5px;"><i class="fa fa-bank"></i> The ACM Web Conference 2026 (WWW 2026) | <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
 ​      <br/>
 ​    </td>
@@ -74,11 +74,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</strong>
       </a>
       
-      <div class="fs-14 lh-15" style="margin-top:8px;">
+      <div class="fs-14 lh-15" style="margin-top:10px;">
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15"><i class="fa fa-bank"></i> ArXiv 2026
+      <div class="fs-14 lh-15" style="margin-top:5px;"><i class="fa fa-bank"></i> ArXiv 2026
         </div>
     
     </td>
@@ -101,11 +101,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
         <strong>AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</strong>
       </a>
       
-       <div class="fs-14 lh-15" style="margin-top:8px;">
+       <div class="fs-14 lh-15" style="margin-top:10px;">
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15"><i class="fa fa-bank"></i> ArXiv 2024
+      <div class="fs-14 lh-15" style="margin-top:5px;"><i class="fa fa-bank"></i> ArXiv 2024
         </div>
     </td>
   </tr>
