@@ -31,7 +31,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 <sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author
 
-### 2026
+
 
 - [**Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.**](https://arxiv.org/pdf/2502.11811)
 
@@ -61,8 +61,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
   <span style="font-size: 0.869em;"><img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;"> **Qianchi Zhang**, Hainan Zhang<sup>**†**</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng</span>
   
   <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;"> arXiv 2026</span>
-
-### 2024
+  
+  
 
 - [**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.**](https://arxiv.org/pdf/2409.01579)
 
@@ -79,8 +79,107 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
     <div class="fs-14 lh-15"><i class="fa fa-bank"></i> Proceedings of the ACM Web Conference 2026 (WWW 2026)</div>
 
-  
 
+
+<table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
+
+  <!-- Paper 1 -->
+  <tr style="border:none; background:none;">
+    <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
+      <img
+        src="./images/www2026_model.png"
+        style="width:160px; display:block; border-radius:6px;"
+      />
+    </td>
+
+    <td style="vertical-align:top; border:none!important; background:none!important;">
+    
+      <a href="https://arxiv.org/pdf/2502.11811" target="_blank">
+        <strong>Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</strong>
+      </a>
+      <br/>
+    
+      <span style="font-size: 0.869em;">
+        <img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;">
+        <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
+      </span>
+      <br/>
+    
+      Proceedings of the ACM Web Conference 2026 (WWW 2026)
+      <br/>
+    
+      <span style="font-size: 14px; background-color: #2E7D32; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;">
+        WWW 2026
+      </span>
+    
+      <span style="font-size: 13px; background-color: #C62828; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 999px;">
+        CCF A
+      </span>
+    
+    </td>
+  </tr>
+
+
+  <!-- Paper 2 -->
+  <tr style="border:none; background:none;">
+    <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
+      <img
+        src="./images/stable_rag_model.png"
+        style="width:160px; display:block; border-radius:6px;"
+      />
+    </td>
+
+    <td style="vertical-align:top; border:none!important; background:none!important;">
+    
+      <a href="https://arxiv.org/pdf/2601.02993" target="_blank">
+        <strong>Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</strong>
+      </a>
+      <br/>
+    
+      <span style="font-size: 0.869em;">
+        <img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;">
+        <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng
+      </span>
+      <br/>
+    
+      <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;">
+        arXiv 2026
+      </span>
+    
+    </td>
+  </tr>
+
+
+  <!-- Paper 3 -->
+  <tr style="border:none; background:none;">
+    <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
+      <img
+        src="./images/CompSelect.png"
+        style="width:160px; display:block; border-radius:6px;"
+      />
+    </td>
+
+    <td style="vertical-align:top; border:none!important; background:none!important;">
+    
+      <a href="https://arxiv.org/pdf/2409.01579" target="_blank">
+        <strong>AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</strong>
+      </a>
+      <br/>
+    
+      <span style="font-size: 0.869em;">
+        <img src="./images/logo-author.png" style="width: 1em; position: relative; top: -0.1em;">
+        <strong>Qianchi Zhang</strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng
+      </span>
+      <br/>
+    
+      <span style="font-size: 14px; background-color: #9E9E9E; color: #FFFFFF; font-weight: 600; padding: 2px 4.5px; border-radius: 6px; margin-right: 6px;">
+        arXiv 2024
+      </span>
+    
+    </td>
+  </tr>
+
+</table>
 
 <span class="anchor" id="services"></span>
 
