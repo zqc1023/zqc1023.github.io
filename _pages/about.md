@@ -13,7 +13,7 @@
 
 # 💡 About Me
 
-Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Artificial Intelligence  of **Beihang University**, supervised by Prof. [Hainan Zhang](https://zhanghainan.github.io/). My research focuses on Trustworthy  Large Language Models and Retrieval-Augmented Generation (RAG).
+Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Artificial Intelligence  of **Beihang University**, supervised by Prof. [Hainan Zhang](https://zhanghainan.github.io/). My research focuses on **LLM Hallucinations** and **Trustworthy Retrieval-Augmented Generation**.
 
 
 
