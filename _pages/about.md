@@ -38,7 +38,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Figure -->
   <img
     src="./images/paper/Stable-RAG.png"
-    style="width:160px; max-width:100%; display:block; border-radius:6px;"
+    style="width:170px; max-width:100%; display:block; border-radius:6px;"
   />
 </td>
     <!-- Title -->
@@ -47,7 +47,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.
 </a>
     <!-- Author & Venue -->
-      <div class="fs-14 lh-15" style="margin-top:8px;">
+      <div class="fs-14 lh-15" style="margin-top:5px;">
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
@@ -63,7 +63,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
     src="./images/paper/CompSelect.png"
-    style="width:160px; max-width:100%; display:block; border-radius:6px;"
+    style="width:170px; max-width:100%; display:block; border-radius:6px;"
       />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
@@ -87,7 +87,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
       <img
     src="./images/paper/AdaComp.png"
-    style="width:160px; max-width:100%; display:block; border-radius:6px;"
+    style="width:170px; max-width:100%; display:block; border-radius:6px;"
       />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
