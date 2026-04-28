@@ -36,15 +36,18 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
     <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
+    <!-- Figure -->
   <img
     src="./images/paper/Stable-RAG.png"
     style="width:185px; max-width:100%; display:block; border-radius:6px;"
   />
 </td>
+    <!-- Title -->
     <td style="vertical-align:top; border:none!important; background:none!important;">
-      <a href="https://arxiv.org/pdf/2601.02993" target="_blank" style="text-decoration: none; color: #3e92e6; font-weight: bold;">
+      <a href="https://arxiv.org/pdf/2601.02993" target="_blank" style="text-decoration: none; font-weight: bold;">
     Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.
 </a>
+    <!-- Author & Venue -->
       <div class="fs-14 lh-15" style="margin-top:10px;">
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
