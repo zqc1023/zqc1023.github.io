@@ -13,7 +13,7 @@
 
 # 💡 About Me
 
-Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Artificial Intelligence  of **Beihang University**, supervised by Prof. [Hainan Zhang](https://zhanghainan.github.io/). My research focuses on **LLM Hallucinations** and **Trustworthy Retrieval-Augmented Generation**.
+Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of Artificial Intelligence of Beihang University**, supervised by Prof. <a href="https://zhanghainan.github.io/" style="color:#3a6ea5; text-decoration: underline;">Hainan Zhang</a>. My research focuses on **LLM Hallucinations** and **Trustworthy Retrieval-Augmented Generation**.
 
 
 
@@ -21,9 +21,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 
 
 # 🔥 News
-- **2026.04**: &nbsp;🎉🎉 My first-author paper ‘‘Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.’’ is accepted by [ACL 2026 Main](https://2026.aclweb.org/)! 
-- **2026.01**: &nbsp;🎉🎉 My first-author paper ‘‘Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.’’ is accepted by [WWW 2026](https://www2026.thewebconf.org/)! 
-
+- **2026.04**: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a>!
+- **2026.01**: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a>!
 
 
 <span class="anchor" id="publications"></span>
