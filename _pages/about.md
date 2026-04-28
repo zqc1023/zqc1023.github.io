@@ -34,11 +34,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 <!-- Stable-RAG -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
-    <td style="width:180px; vertical-align:top; border:none!important; background:none!important;">
+    <td style="width:190px; vertical-align:top; border:none!important; background:none!important;">
     <!-- Figure -->
   <img
     src="./images/paper/Stable-RAG.png"
-    style="width:170px; max-width:100%; display:block; border-radius:6px;"
+    style="width:175px; max-width:100%; display:block; border-radius:6px;"
   />
 </td>
     <!-- Title -->
@@ -47,11 +47,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.
 </a>
     <!-- Author & Venue -->
-      <div class="fs-14 lh-15" style="margin-top:5px;">
+      <div class="fs-14 lh-15" style="margin-top:3px;">
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main) | <span style="color:#C62828; font-weight:600;">CCF A</span>
+      <div class="fs-14 lh-15" style="margin-top:1px;"><i class="fa fa-bank"></i> The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main) | <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
     </td>
   </tr>
