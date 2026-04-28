@@ -44,7 +44,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
 </td>
     <!-- Title -->
     <td style="vertical-align:top; border:none!important; background:none!important;">
-      <a href="https://arxiv.org/pdf/2601.02993" target="_blank" style="text-decoration: none; color: #1f3a5f; font-weight: bold;">
+      <a href="https://arxiv.org/pdf/2601.02993" target="_blank" style="text-decoration: none; color: #3a6ea5; font-weight: bold;">
     Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.
 </a>
     <!-- Author & Venue -->
@@ -68,7 +68,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
-      <a href="https://arxiv.org/pdf/2502.11811" target="_blank" style="text-decoration: none; color: #1f3a5f; font-weight: bold;">
+      <a href="https://arxiv.org/pdf/2502.11811" target="_blank" style="text-decoration: none; color: #3a6ea5; font-weight: bold;">
     Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.
 </a>
       <div class="fs-14 lh-15" style="margin-top:10px;">
@@ -92,7 +92,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at School of Art
       />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
-      <a href="https://arxiv.org/pdf/2409.01579" target="_blank" style="text-decoration: none; color: #1f3a5f; font-weight: bold;">
+      <a href="https://arxiv.org/pdf/2409.01579" target="_blank" style="text-decoration: none; color: #3a6ea5; font-weight: bold;">
     AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.
 </a>
        <div class="fs-14 lh-15" style="margin-top:10px;">
