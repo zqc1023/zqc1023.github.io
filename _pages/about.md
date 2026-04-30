@@ -13,7 +13,7 @@
 
 # 💡 About Me
 
-Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of Artificial Intelligence of Beihang University**, supervised by Prof. <a href="https://zhanghainan.github.io/" style="color:#3a6ea5; text-decoration: underline;">Hainan Zhang</a>. My research focuses on **LLM Hallucinations** and **Trustworthy Retrieval-Augmented Generation**.
+Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of Artificial Intelligence, Beihang University**. My research focuses on **LLM Hallucinations** and **Trustworthy Retrieval-Augmented Generation**.
 
 
 
