@@ -110,7 +110,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 # 🎖 Honors and Awards
 
-- *2025*: Second Prize Outstanding Student Scholarship, Beihang University
+- *2025*: Second Prize Outstanding Student Scholarship, Beihang University.
 
 - *2023*: Outstanding Graduate in Beijing Forestry University.
 - *2020-2022*: China National Encouragement Scholarship.
