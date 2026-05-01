@@ -106,11 +106,32 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 </table>
 
+<span class="anchor" id="awards"></span>
+
+# 🎖 Honors and Awards
+
+- 2025: Second Prize Outstanding Student Scholarship, Beihang University
+
+- 2023: Outstanding Graduate in Beijing Forestry University.
+- 2020-2022: China National Encouragement Scholarship.
+
+
+
+<span class="anchor" id="talks"></span>
+
+# 🎤 Invited Talks
+
+- *2026.03*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, CCIR PhD Forum.
+
+
+
 <span class="anchor" id="services"></span>
 
 # 🧑‍⚖️ Academic Services
 
-- **Program Committee / Reviewer**: TKDE, TMM
+- **Journal Reviewer**: TKDE, TMM
+
+
 
 <span class="anchor" id="educations"></span>
 
@@ -120,6 +141,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 - **2023.9 – 2025.6**, M.S. Student, School of Artificial Intelligence, Beihang University.
   
 - **2019.9 – 2023.6**, B.S. Student, School of Information Science and Technology, Beijing Forestry University.
+
+
 
 <span class="anchor" id="internships"></span>
 

@@ -9,14 +9,19 @@ main:
   - title: "Selected Publications"
     url: "/#publications"
 
+  - title: "Honors and Awards"
+    url: "/#awards"
+
+  - title: "Invited Talks"
+    url: "/#talks"
+
   - title: "Academic Services"
     url: "/#services"
 
   - title: "Educations"
     url: "/#educations"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  
 
   - title: "Internships"
     url: "/#internships"
