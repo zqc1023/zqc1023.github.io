@@ -21,8 +21,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 
 # 🔥 News
-- **2026.04**: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a>!
-- **2026.01**: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a>!
+- *2026.04*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a>!
+- *2026.01*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a>!
 
 
 <span class="anchor" id="publications"></span>
@@ -110,10 +110,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 # 🎖 Honors and Awards
 
-- 2025: Second Prize Outstanding Student Scholarship, Beihang University
+- *2025*: Second Prize Outstanding Student Scholarship, Beihang University
 
-- 2023: Outstanding Graduate in Beijing Forestry University.
-- 2020-2022: China National Encouragement Scholarship.
+- *2023*: Outstanding Graduate in Beijing Forestry University.
+- *2020-2022*: China National Encouragement Scholarship.
 
 
 
@@ -136,11 +136,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 <span class="anchor" id="educations"></span>
 
 # 📖 Educations
-- **2025.9 – Present**, Ph.D. Student, School of Artificial Intelligence, Beihang University.
+- *2025.9 – Present*, Ph.D. Student, School of Artificial Intelligence, Beihang University.
   
-- **2023.9 – 2025.6**, M.S. Student, School of Artificial Intelligence, Beihang University.
+- *2023.9 – 2025.6*, M.S. Student, School of Artificial Intelligence, Beihang University.
   
-- **2019.9 – 2023.6**, B.S. Student, School of Information Science and Technology, Beijing Forestry University.
+- *2019.9 – 2023.6*, B.S. Student, School of Information Science and Technology, Beijing Forestry University.
 
 
 
