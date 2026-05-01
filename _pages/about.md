@@ -121,7 +121,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 # 🎤 Invited Talks
 
-- *2026.03*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, CCIR PhD Forum.
+- *2026.03*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, <a href="https://mp.weixin.qq.com/s/eJaeeHOXor0hbX241AQj7w" style="color:#3a6ea5; text-decoration: underline;">CCIR PhD Forum</a>.
+
+
 
 
 
