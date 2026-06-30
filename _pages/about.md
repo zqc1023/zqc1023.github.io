@@ -29,7 +29,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 # 📝 Selected Publications
 
-<sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author  
+<sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author; AR: Acceptance Rate
 
 
 <!-- Stable-RAG -->
@@ -52,7 +52,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main) | <span style="color:#C62828; font-weight:600;">CCF A</span>
+      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main, AR=18.9%) | <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
     </td>
   </tr>
