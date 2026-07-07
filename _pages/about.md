@@ -124,6 +124,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 # 🎤 Invited Talks
 
+- *2026.07*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, YSSNLP 2026 Poster.
+
 - *2026.03*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, CCIR PhD Forum.
 
 
@@ -132,7 +134,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 # 🧑‍⚖️ Academic Services
 
-- **Journal Reviewer**: TKDE, TMM
+- **Journal Reviewer**: TKDE, TMM, TAI
+- **Conference Reviewer**: ACL Rolling Review
 
 
 
