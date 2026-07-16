@@ -40,13 +40,13 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 <!-- Stable-RAG -->
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
-    <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
+    <!-- <td style="width:200px; vertical-align:top; border:none!important; background:none!important;"> -->
     <!-- Figure -->
   <!-- <img
     src="./images/paper/Stable-RAG.png"
     style="width:185px; max-width:100%; display:block; border-radius:6px;"
   /> -->
-</td>
+<!-- </td> -->
     <!-- Title -->
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <a href="https://aclanthology.org/2026.acl-long.1188.pdf" target="_blank" style="text-decoration: none; color: #3a6ea5; font-weight: bold;">
@@ -57,7 +57,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main, AR=18.9% </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span> 
+      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span> 
     ｜ <a href="./images/poster/Stable-RAG.pdf" target="_blank" style="
     display:inline-flex;
     align-items:center;
@@ -93,7 +93,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
-        <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> WWW 2026, AR=20.1% </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span>
+        <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> WWW 2026 </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
 ​      <br/>
 ​    </td>
