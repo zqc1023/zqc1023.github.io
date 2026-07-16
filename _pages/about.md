@@ -89,53 +89,70 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 
 <!-- CompSelect -->
-<table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
-  <tr style="border:none; background:none;">
-    <!-- <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
-      <img
-    src="./images/paper/CompSelect.png"
-    style="width:185px; max-width:100%; display:block; border-radius:6px;"
-      />
-    </td> -->
-    <td style="vertical-align:top; border:none!important; background:none!important;">
-      <a href="https://dl.acm.org/doi/epdf/10.1145/3774904.3792158" target="_blank" style="text-decoration: none; color: #3a6ea5; font-weight: bold;">
-    Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.
-</a>
-      <div class="fs-14 lh-15" style="margin-top:8px;">
-    <i class="fa fa-user"></i>
-    <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
-  </div>
-        <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> WWW 2026 </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span>
-        </div>
-​      <br/>
-​    </td>
-  </tr>
-</table>
+<ul style="padding-left:22px; margin-bottom:20px;">
+  <li style="padding-left:2px;">
+    <!-- Title -->
+    <a
+      href="https://dl.acm.org/doi/epdf/10.1145/3774904.3792158"
+      target="_blank"
+      style="
+        text-decoration:none;
+        color:#3a6ea5;
+        font-weight:bold;
+      "
+    >Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.</a>
+    <!-- Authors -->
+    <div class="fs-14 lh-15" style="margin-top:8px;">
+      <i class="fa fa-user"></i>
+      <strong><u>Qianchi Zhang</u></strong>,
+      Hainan Zhang<sup>†</sup>,
+      Liang Pang,
+      Yongxin Tong,
+      Hongwei Zheng,
+      and Zhiming Zheng.
+    </div>
+    <!-- Venue -->
+    <div class="fs-14 lh-15" style="margin-top:3px;">
+      <i class="fa fa-bank"></i>
+      <strong>WWW 2026</strong>
+      ｜
+      <span style="color:#C62828; font-weight:600;">CCF A</span>
+    </div>
+  </li>
+</ul>
 
 
- <!-- AdaComp -->
-<table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
-  <tr style="border:none; background:none;">
-    <!-- <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
-      <img
-    src="./images/paper/AdaComp.png"
-    style="width:185px; max-width:100%; display:block; border-radius:6px;"
-      />
-    </td> -->
-    <td style="vertical-align:top; border:none!important; background:none!important;">
-      <a href="https://arxiv.org/pdf/2409.01579" target="_blank" style="text-decoration: none; color: #3a6ea5; font-weight: bold;">
-    AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.
-</a>
-       <div class="fs-14 lh-15" style="margin-top:8px;">
-    <i class="fa fa-user"></i>
-    <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
-  </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> KSEM 2026 </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF C</span>
-        </div>
-    </td>
-  </tr>
-
-</table>
+<!-- AdaComp -->
+<ul style="padding-left:22px; margin-bottom:20px;">
+  <li style="padding-left:2px;">
+    <!-- Title -->
+    <a
+      href="https://arxiv.org/pdf/2409.01579"
+      target="_blank"
+      style="
+        text-decoration:none;
+        color:#3a6ea5;
+        font-weight:bold;
+      "
+    >AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.</a>
+    <!-- Authors -->
+    <div class="fs-14 lh-15" style="margin-top:8px;">
+      <i class="fa fa-user"></i>
+      <strong><u>Qianchi Zhang</u></strong>,
+      Hainan Zhang<sup>†</sup>,
+      Liang Pang,
+      Hongwei Zheng,
+      and Zhiming Zheng.
+    </div>
+    <!-- Venue -->
+    <div class="fs-14 lh-15" style="margin-top:3px;">
+      <i class="fa fa-bank"></i>
+      <strong>KSEM 2026</strong>
+      ｜
+      <span style="color:#C62828; font-weight:600;">CCF C</span>
+    </div>
+  </li>
+</ul>
 
 <span class="anchor" id="awards"></span>
 
