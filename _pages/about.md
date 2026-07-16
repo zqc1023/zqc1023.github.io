@@ -63,7 +63,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     background-color:#C62828;
     color:#ffffff;
     text-decoration:none;
-    border-radius:4px;
+    border-radius:3px;
     font-weight:600;
   ">
   <i class="fa fa-picture-o"></i> Poster
