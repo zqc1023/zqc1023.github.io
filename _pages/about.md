@@ -99,7 +99,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     style="display:inline-flex; align-items:center; text-decoration:none;"
   ><img
       alt="GitHub Repo Stars"
-      src="https://github.com/zqc1023/Stable-RAG?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
+      src="https://img.shields.io/github/stars/zqc1023/Stable-RAG?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
       style="
         display:block;
         height:18px;
