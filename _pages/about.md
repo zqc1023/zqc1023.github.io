@@ -93,41 +93,34 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
   ><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
 
   <!-- GitHub -->
-  <a
-    href="https://github.com/zqc1023/Stable-RAG"
-    target="_blank"
-    style="display:inline-flex; align-items:center; text-decoration:none;"
-  ><img
-      alt="GitHub Repo Stars"
-      src="https://img.shields.io/github/stars/zqc1023/Stable-RAG?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
-      style="
-        display:block;
-        height:18px;
-        border:1px solid #ccc;
-        border-radius:4px;
-      "
-    /></a>
-
-  <!-- Google Scholar -->
-  <a
-    href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tmmwj04AAAAJ&citation_for_view=tmmwj04AAAAJ:GnPB-g6toBAC"
-    target="_blank"
+ <a
+  href="https://github.com/zqc1023/Stable-RAG"
+  target="_blank"
+  style="display:inline-flex; align-items:center; text-decoration:none;"
+>
+  <img
+    alt="GitHub Repo stars"
+    src="https://img.shields.io/github/stars/zqc1023/Stable-RAG?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
     style="
-      display:inline-flex;
-      align-items:center;
+      display:block;
       height:18px;
-      padding:0 5px;
       border:1px solid #ccc;
       border-radius:4px;
-      background-color:#ffffff;
-      color:#4285F4;
-      text-decoration:none;
-      font-size:11px;
-      line-height:18px;
-      font-weight:600;
-      box-sizing:border-box;
     "
-  ><i class="fa fa-graduation-cap" style="margin-right:3px;"></i>Google Scholar</a>
+  />
+</a>
+
+  <!-- Google Scholar -->
+ <a
+  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=13388958562085683949"
+  target="_blank"
+>
+  <img
+    alt="Google Scholar citations"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fmain%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27你的论文key%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+    style="border:1px solid #ccc; border-radius:4px;"
+  />
+</a>
 </div>
   </li>
 </ul>
