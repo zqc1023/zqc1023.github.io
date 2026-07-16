@@ -64,26 +64,71 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
       <i class="fa fa-bank"></i>
      <span style="color:#000000;"> The 64th Annual Meeting of the Association for Computational Linguistics.</span> <span style="color:#C62828; font-weight:600;"> (ACL 2026 Main, CCF A) </span>
     </div>
-    <!-- Poster -->
-    <div style="margin-top:5px;">
-      <a
-        href="./images/poster/Stable-RAG.pdf"
-        target="_blank"
-        style="
-          display:inline-flex;
-          align-items:center;
-          padding:1px 4px;
-          background-color:#C62828;
-          color:#ffffff;
-          text-decoration:none;
-          border-radius:3px;
-          font-size:inherit;
-          line-height:1.15;
-          font-weight:600;
-          vertical-align:middle;
-        "
-      ><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
-    </div>
+    <!-- Resources -->
+<div
+  style="
+    margin-top:5px;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    flex-wrap:wrap;
+  "
+>
+  <!-- Poster -->
+  <a
+    href="./images/poster/Stable-RAG.pdf"
+    target="_blank"
+    style="
+      display:inline-flex;
+      align-items:center;
+      padding:1px 4px;
+      background-color:#C62828;
+      color:#ffffff;
+      text-decoration:none;
+      border-radius:3px;
+      font-size:inherit;
+      line-height:1.15;
+      font-weight:600;
+    "
+  ><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
+
+  <!-- GitHub -->
+  <a
+    href="https://github.com/zqc1023/Stable-RAG"
+    target="_blank"
+    style="display:inline-flex; align-items:center; text-decoration:none;"
+  ><img
+      alt="GitHub Repo Stars"
+      src="https://github.com/zqc1023/Stable-RAG?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
+      style="
+        display:block;
+        height:18px;
+        border:1px solid #ccc;
+        border-radius:4px;
+      "
+    /></a>
+
+  <!-- Google Scholar -->
+  <a
+    href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tmmwj04AAAAJ&citation_for_view=tmmwj04AAAAJ:GnPB-g6toBAC"
+    target="_blank"
+    style="
+      display:inline-flex;
+      align-items:center;
+      height:18px;
+      padding:0 5px;
+      border:1px solid #ccc;
+      border-radius:4px;
+      background-color:#ffffff;
+      color:#4285F4;
+      text-decoration:none;
+      font-size:11px;
+      line-height:18px;
+      font-weight:600;
+      box-sizing:border-box;
+    "
+  ><i class="fa fa-graduation-cap" style="margin-right:3px;"></i>Google Scholar</a>
+</div>
   </li>
 </ul>
 
