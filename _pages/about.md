@@ -57,10 +57,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main, AR=18.9% </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span> ｜ <a
-  href="./images/poster/Stable-RAG.pdf"
-  target="_blank"
-  style="
+      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main, AR=18.9% </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span> 
+    ｜ <a href="./images/poster/Stable-RAG.pdf" target="_blank" style="
     display:inline-flex;
     align-items:center;
     padding:0 4px;
@@ -71,10 +69,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     font-size:inherit;
     line-height:1.15;
     font-weight:400;
-    vertical-align:baseline;
-  "
-><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
-</a>
+    vertical-align:baseline;"><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
         </div>
     </td>
   </tr>
