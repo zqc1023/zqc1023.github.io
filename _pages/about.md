@@ -62,9 +62,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Venue -->
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
-      <strong>ACL 2026 Main</strong>
-      ｜
-      <span style="color:#C62828; font-weight:600;">CCF A</span>
+      <span style="color:#C62828; font-weight:600;">ACL 2026 Main (CCF A)</span>
       ｜
       <a
         href="./images/poster/Stable-RAG.pdf"
@@ -114,9 +112,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Venue -->
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
-      <strong>WWW 2026</strong>
-      ｜
-      <span style="color:#C62828; font-weight:600;">CCF A</span>
+      <span style="color:#C62828; font-weight:600;">WWW 2026 (CCF A)</span>
     </div>
   </li>
 </ul>
@@ -147,9 +143,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Venue -->
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
-      <strong>KSEM 2026</strong>
-      ｜
-      <span style="color:#C62828; font-weight:600;">CCF C</span>
+      <span style="color:#C62828; font-weight:600;">KSEM 2026 (CCF C)</span>
     </div>
   </li>
 </ul>
