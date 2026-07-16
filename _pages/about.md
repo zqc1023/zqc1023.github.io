@@ -3,28 +3,7 @@
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 >
-<style>
-.btn-download {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  padding: 3px 9px;
-  margin-left: 3px;
-  border: 1px solid #3a6ea5;
-  border-radius: 4px;
-  color: #3a6ea5 !important;
-  background-color: transparent;
-  text-decoration: none !important;
-  font-size: 13px;
-  line-height: 1.4;
-  transition: all 0.2s ease;
-}
 
-.btn-download:hover {
-  color: white !important;
-  background-color: #3a6ea5;
-}
-</style>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -79,7 +58,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
       <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main, AR=18.9% </strong> | <span style="color:#C62828; font-weight:600;">CCF A</span> 
-      ｜<a  href="./images/poster/Stable-RAG.pdf" target="_blank"> <span class="icon-poster icon"></span>Poster </a>
+      ｜<a  href="./images/poster/Stable-RAG.pdf" target="_blank"> <span class="icon-poster icon"></span> Poster </a>
         </div>
     </td>
   </tr>
