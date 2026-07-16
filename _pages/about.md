@@ -34,7 +34,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 
 # 📝 Selected Publications
 
-<sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author
+<sup>**\***</sup> Equal Contribution; <sup>**†**</sup> Corresponding Author; AR=Acceptance Rate
 
 
 <!-- Stable-RAG -->
@@ -105,7 +105,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
           The 64th Annual Meeting of the Association for Computational Linguistics.
         </span>
         <span style="color:#C62828; font-weight:600;">
-          (ACL 2026 Main, CCF A) ｜ Acceptance Rate=18.9%
+          (ACL 2026 Main, CCF A) ｜ AR=18.9%
         </span>
       </span>
     </div>
@@ -308,7 +308,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
           The ACM Web Conference 2026.
         </span>
         <span style="color:#C62828; font-weight:600;">
-          (WWW 2026, CCF A) ｜ Acceptance Rate=20.1%
+          (WWW 2026, CCF A) ｜ AR=20.1%
         </span>
       </span>
     </div>
