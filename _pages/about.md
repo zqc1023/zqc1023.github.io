@@ -67,9 +67,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     text-decoration:none;
     border-radius:3px;
     font-size:inherit;
-    line-height:1.0;
+    line-height:1.15;
     font-weight:600;
-    vertical-align:baseline;"><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
+    vertical-align:middle;"><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
         </div>
     </td>
   </tr>
