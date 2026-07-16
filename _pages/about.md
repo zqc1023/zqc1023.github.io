@@ -42,10 +42,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
   <tr style="border:none; background:none;">
     <td style="width:200px; vertical-align:top; border:none!important; background:none!important;">
     <!-- Figure -->
-  <img
+  <!-- <img
     src="./images/paper/Stable-RAG.png"
     style="width:185px; max-width:100%; display:block; border-radius:6px;"
-  />
+  /> -->
 </td>
     <!-- Title -->
     <td style="vertical-align:top; border:none!important; background:none!important;">
