@@ -49,8 +49,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
         color:#3a6ea5;
         font-weight:bold;
       ">
-      Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations
-      in Retrieval-Augmented Generation.
+      Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.
     </a>
     <!-- Authors -->
     <div
@@ -101,7 +100,8 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
         "
       ></i>
       <span>
-        <span style="color:#000000;">
+        <!-- <span style="color:#000000;"> -->
+        <span>
           The 64th Annual Meeting of the Association for Computational Linguistics.
         </span>
         <span style="color:#C62828; font-weight:600;">
@@ -251,8 +251,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
         font-weight:bold;
       "
     >
-      Less is More: Compact Clue Selection for Efficient
-      Retrieval-Augmented Generation Reasoning.
+      Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning.
     </a>
     <!-- Authors -->
     <div
@@ -304,7 +303,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
         "
       ></i>
       <span>
-        <span style="color:#000000;">
+         <span>
           The ACM Web Conference 2026.
         </span>
         <span style="color:#C62828; font-weight:600;">
@@ -425,8 +424,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
         font-weight:bold;
       "
     >
-      AdaComp: Extractive Context Compression with Adaptive Predictor
-      for Retrieval-Augmented Large Language Models.
+      AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models.
     </a>
     <!-- Authors -->
     <div
@@ -477,9 +475,8 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
         "
       ></i>
       <span>
-        <span style="color:#000000;">
-          The 19th International Conference on Knowledge Science,
-          Engineering and Management.
+        <span>
+          The 19th International Conference on Knowledge Science, Engineering and Management.
         </span>
         <span style="color:#C62828; font-weight:600;">
           (KSEM 2026, CCF C)
