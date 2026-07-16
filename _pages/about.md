@@ -245,6 +245,37 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
       <i class="fa fa-bank"></i>
       <span style="color:#000000;"> The 19th International Conference on Knowledge Science, Engineering and Management.</span> <span style="color:#C62828; font-weight:600;"> (KSEM 2026, CCF C) </span>
     </div>
+
+        <!-- Resources -->
+<div
+  style="
+    margin-top:5px;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    flex-wrap:wrap;
+  "
+>
+
+<!-- GitHub -->
+
+  <!-- Google Scholar -->
+<a
+  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=17212725779623653674"
+  target="_blank"
+  style="display:inline-flex; align-items:center; text-decoration:none;"
+>
+  <img
+    alt="Google Scholar Citations"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:O3NaXMp0MMsC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+    style="
+      display:block;
+      height:18px;
+      border:1px solid #ccc;
+      border-radius:4px;
+    "
+  />
+</a>
   </li>
 </ul>
 
