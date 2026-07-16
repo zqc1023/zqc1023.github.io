@@ -67,7 +67,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
     <!-- Resources -->
 <div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
 
-<i class="fa fa-paperclip"></i>
+<i class="fa fa-folder-open-o"></i>
 
     <!-- GitHub -->
 <a
@@ -197,6 +197,8 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 <!-- Resources -->
 <div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
 
+<i class="fa fa-folder-open-o"></i>
+
 <!-- GitHub -->
 <a
   href="https://github.com/zqc1023/CompSelect"
@@ -297,6 +299,8 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 
 <!-- Resources -->
 <div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+
+<i class="fa fa-folder-open-o"></i>
 
   <!-- Google Scholar -->
 <a
