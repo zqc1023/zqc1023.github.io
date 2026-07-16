@@ -38,42 +38,54 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 
 <!-- Stable-RAG -->
-<table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
-  <tr style="border:none; background:none;">
-    <!-- <td style="width:200px; vertical-align:top; border:none!important; background:none!important;"> -->
-    <!-- Figure -->
-  <!-- <img
-    src="./images/paper/Stable-RAG.png"
-    style="width:185px; max-width:100%; display:block; border-radius:6px;"
-  /> -->
-<!-- </td> -->
+<ul style="padding-left:22px; margin-bottom:20px;">
+  <li style="padding-left:2px;">
     <!-- Title -->
-    <td style="vertical-align:top; border:none!important; background:none!important;">
-    - <a href="https://aclanthology.org/2026.acl-long.1188.pdf" target="_blank" style="text-decoration: none; color: #3a6ea5; font-weight: bold;">
-    Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.
-</a>
-    <!-- Author & Venue -->
-      <div class="fs-14 lh-15" style="margin-top:8px;">
-    <i class="fa fa-user"></i>
-    <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
-  </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span> 
-    ｜ <a href="./images/poster/Stable-RAG.pdf" target="_blank" style="
-    display:inline-flex;
-    align-items:center;
-    padding:1 4px;
-    background-color:#C62828;
-    color:#ffffff;
-    text-decoration:none;
-    border-radius:3px;
-    font-size:inherit;
-    line-height:1.15;
-    font-weight:600;
-    vertical-align:middle;"><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
-        </div>
-    </td>
-  </tr>
-</table>
+    <a
+      href="https://aclanthology.org/2026.acl-long.1188.pdf"
+      target="_blank"
+      style="
+        text-decoration:none;
+        color:#3a6ea5;
+        font-weight:bold;
+      "
+    >Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</a>
+    <!-- Authors -->
+    <div class="fs-14 lh-15" style="margin-top:8px;">
+      <i class="fa fa-user"></i>
+      <strong><u>Qianchi Zhang</u></strong>,
+      Hainan Zhang<sup>†</sup>,
+      Liang Pang,
+      Hongwei Zheng,
+      and Zhiming Zheng.
+    </div>
+    <!-- Venue -->
+    <div class="fs-14 lh-15" style="margin-top:3px;">
+      <i class="fa fa-bank"></i>
+      <strong>ACL 2026 Main</strong>
+      ｜
+      <span style="color:#C62828; font-weight:600;">CCF A</span>
+      ｜
+      <a
+        href="./images/poster/Stable-RAG.pdf"
+        target="_blank"
+        style="
+          display:inline-flex;
+          align-items:center;
+          padding:1px 4px;
+          background-color:#C62828;
+          color:#ffffff;
+          text-decoration:none;
+          border-radius:3px;
+          font-size:inherit;
+          line-height:1.15;
+          font-weight:600;
+          vertical-align:middle;
+        "
+      ><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
+    </div>
+  </li>
+</ul>
 
 
 <!-- CompSelect -->
@@ -122,7 +134,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
         </div>
     </td>
   </tr>
-
 
 </table>
 
