@@ -61,14 +61,14 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     ｜ <a href="./images/poster/Stable-RAG.pdf" target="_blank" style="
     display:inline-flex;
     align-items:center;
-    padding:0 4px;
+    padding:1 4px;
     background-color:#C62828;
     color:#ffffff;
     text-decoration:none;
-    border-radius:2px;
+    border-radius:3px;
     font-size:inherit;
-    line-height:1.15;
-    font-weight:400;
+    line-height:1.0;
+    font-weight:600;
     vertical-align:baseline;"><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
         </div>
     </td>
