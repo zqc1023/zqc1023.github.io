@@ -62,7 +62,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Venue -->
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
-     <span style="color:#000000;"> The 64th Annual Meeting of the Association for Computational Linguistics.</span> <span style="color:#C62828; font-weight:600;"> (ACL 2026 Main, CCF A) </span>
+     <span style="color:#000000;"> The 64th Annual Meeting of the Association for Computational Linguistics.</span> <span style="color:#C62828; font-weight:600;"> (ACL 2026 Main, AR=18.9%) (CCF A) </span>
     </div>
     <!-- Resources -->
 <div style="margin-top:5px; display:flex; align-items:center; gap:6px; lex-wrap:wrap;">
@@ -93,7 +93,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 >
   <img
     alt="Google Scholar Citations"
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ%3AGnPB-g6toBAC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:GnPB-g6toBAC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
     style="
       display:block;
       height:18px;
@@ -189,7 +189,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Venue -->
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
-      <span style="color:#000000;"> The ACM Web Conference 2026.</span> <span style="color:#C62828; font-weight:600;"> (WWW 2026, CCF A) </span>
+      <span style="color:#000000;"> The ACM Web Conference 2026.</span> <span style="color:#C62828; font-weight:600;"> (WWW 2026, AR=20.1%) (CCF A) </span>
     </div>
 
 <!-- Resources -->
@@ -289,7 +289,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Venue -->
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
-      <span style="color:#000000;"> The 19th International Conference on Knowledge Science, Engineering and Management.</span> <span style="color:#C62828; font-weight:600;"> (KSEM 2026, CCF C) </span>
+      <span style="color:#000000;"> The 19th International Conference on Knowledge Science, Engineering and Management.</span> <span style="color:#C62828; font-weight:600;"> (KSEM 2026) (CCF C) </span>
     </div>
 
 
@@ -303,7 +303,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 >
   <img
     alt="Google Scholar Citations"
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ%3AO3NaXMp0MMsC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:O3NaXMp0MMsC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
     style="
       display:block;
       height:18px;
