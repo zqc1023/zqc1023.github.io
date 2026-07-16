@@ -56,12 +56,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong>ACL 2026 Main, AR=18.9%</strong> ｜<a
-          href="./images/poster/Stable-RAG.pdf"
-          target="_blank"
-          style="text-decoration:none; color:#3a6ea5; font-weight:600;">
-          <i class="fa fa-picture-o"></i> Poster
-        </a>
+      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong>ACL 2026 Main, AR=18.9%</strong> 
+      ｜<a class="btn btn-download-poster btn-download" href="{{ '/images/poster/Stable-RAG.pdf' | relative_url }}" target="_blank"> <span class="icon-poster icon"></span>Poster </a>
         </div>
     </td>
   </tr>
