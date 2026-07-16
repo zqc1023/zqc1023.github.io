@@ -215,7 +215,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
   <!-- Google Scholar -->
 <a
-  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=31051737733490796"
+  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=31051737733490796,13318791537714013165"
   target="_blank"
   style="display:inline-flex; align-items:center; text-decoration:none;"
 >
