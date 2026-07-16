@@ -59,12 +59,12 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
   </div>
       <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main, AR=18.9% </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span> ｜ <a href="./images/poster/Stable-RAG.pdf" target="_blank" style="
     display:inline-block;
-    padding:2px 7px;
+    padding:1px 5px;
     background-color:#C62828;
     color:#ffffff;
     text-decoration:none;
-    border-radius:3px;
-    font-weight:600;
+    border-radius:2px;
+    font-weight:400;
   ">
   <i class="fa fa-picture-o"></i> Poster
 </a>
