@@ -68,8 +68,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 <div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
 
 <!-- Resources icon -->
-
-  <i class="fa fa-link" style="margin-right:2px;"></i>
+ <i class="fa fa-paperclip"></i>
 
     <!-- GitHub -->
 <a
