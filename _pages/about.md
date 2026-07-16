@@ -48,121 +48,194 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
         text-decoration:none;
         color:#3a6ea5;
         font-weight:bold;
-      "
-    >Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation.</a>
+      ">
+      Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations
+      in Retrieval-Augmented Generation.
+    </a>
     <!-- Authors -->
-    <div class="fs-14 lh-15" style="margin-top:8px;">
-      <i class="fa fa-user"></i>
-      <strong><u>Qianchi Zhang</u></strong>,
-      Hainan Zhang<sup>†</sup>,
-      Liang Pang,
-      Hongwei Zheng,
-      and Zhiming Zheng.
+    <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:8px;
+        display:flex;
+        align-items:center;
+      "
+    >
+      <i
+        class="fa fa-user"
+        title="Authors"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      <span>
+        <strong><u>Qianchi Zhang</u></strong>,
+        Hainan Zhang<sup>†</sup>,
+        Liang Pang,
+        Hongwei Zheng,
+        and Zhiming Zheng.
+      </span>
     </div>
     <!-- Venue -->
-    <div class="fs-14 lh-15" style="margin-top:3px;">
-      <i class="fa fa-bank"></i>
-     <span style="color:#000000;"> The 64th Annual Meeting of the Association for Computational Linguistics.</span> <span style="color:#C62828; font-weight:600;"> (ACL 2026 Main, CCF A) ｜ Acceptance Rate=18.9% </span>
+    <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:3px;
+        display:flex;
+        align-items:center;
+      "
+    >
+      <i
+        class="fa fa-bank"
+        title="Venue"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      <span>
+        <span style="color:#000000;">
+          The 64th Annual Meeting of the Association for Computational Linguistics.
+        </span>
+        <span style="color:#C62828; font-weight:600;">
+          (ACL 2026 Main, CCF A) ｜ Acceptance Rate=18.9%
+        </span>
+      </span>
     </div>
     <!-- Resources -->
-<div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+    <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:5px;
+        display:flex;
+        align-items:center;
+        flex-wrap:wrap;
+        column-gap:6px;
+        row-gap:4px;
+      "
+    >
+      <i
+        class="fa fa-link"
+        title="Resources"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      <!-- GitHub -->
+      <a
+        href="https://github.com/zqc1023/Stable-RAG"
+        target="_blank"
+        style="
+          display:inline-flex;
+          align-items:center;
+          text-decoration:none;
+        "
+      >
+        <img
+          alt="GitHub Repo stars"
+          src="https://img.shields.io/github/stars/zqc1023/Stable-RAG?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
+          style="
+            display:block;
+            height:18px;
+            border:1px solid #ccc;
+            border-radius:4px;
+          "
+        />
+      </a>
+      <!-- Google Scholar -->
+      <a
+        href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=13388958562085683949"
+        target="_blank"
+        style="
+          display:inline-flex;
+          align-items:center;
+          text-decoration:none;
+        "
+      >
+        <img
+          alt="Google Scholar Citations"
+          src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:GnPB-g6toBAC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+          style="
+            display:block;
+            height:18px;
+            border:1px solid #ccc;
+            border-radius:4px;
+          "
+        />
+      </a>
+      <!-- PDF -->
+      <a
+        href="https://aclanthology.org/2026.acl-long.1188.pdf"
+        target="_blank"
+        style="
+          display:inline-flex;
+          align-items:center;
+          height:18px;
+          padding:0 6px;
+          box-sizing:border-box;
+          border:1px solid #C62828;
+          border-radius:4px;
+          background-color:#C62828;
+          color:#ffffff;
+          text-decoration:none;
+          font-size:11px;
+          line-height:18px;
+          font-weight:600;
+        "
+      >
+        <i
+          class="fa fa-file-pdf-o"
+          style="
+            margin-right:4px;
+            font-size:11px;
+          "
+        ></i>
+        PDF
+      </a>
+      <!-- Poster -->
+      <a
+        href="./images/poster/Stable-RAG.pdf"
+        target="_blank"
+        style="
+          display:inline-flex;
+          align-items:center;
+          height:18px;
+          padding:0 6px;
+          box-sizing:border-box;
+          border:1px solid #F28C28;
+          border-radius:4px;
+          background-color:#F28C28;
+          color:#ffffff;
+          text-decoration:none;
+          font-size:11px;
+          line-height:18px;
+          font-weight:600;
+        "
+      >
+        <i
+          class="fa fa-picture-o"
+          style="
+            margin-right:4px;
+            font-size:11px;
+          "
+        ></i>
+        Poster
+      </a>
+    </div>
 
-<i class="fa fa-folder-open-o"></i>
-
-    <!-- GitHub -->
-<a
-  href="https://github.com/zqc1023/Stable-RAG"
-  target="_blank"
-  style="display:inline-flex; align-items:center; text-decoration:none;"
->
-  <img
-    alt="GitHub Repo stars"
-    src="https://img.shields.io/github/stars/zqc1023/Stable-RAG?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
-    style="
-      display:block;
-      height:18px;
-      border:1px solid #ccc;
-      border-radius:4px;
-    "
-  />
-</a>
-
-  <!-- Google Scholar -->
-<a
-  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=13388958562085683949"
-  target="_blank"
-  style="display:inline-flex; align-items:center; text-decoration:none;"
->
-  <img
-    alt="Google Scholar Citations"
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:GnPB-g6toBAC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
-    style="
-      display:block;
-      height:18px;
-      border:1px solid #ccc;
-      border-radius:4px;
-    "
-  />
-</a>
-
-<!-- PDF -->
-<a
-  href="https://aclanthology.org/2026.acl-long.1188.pdf"
-  target="_blank"
-  style="
-    display:inline-flex;
-    align-items:center;
-    height:18px;
-    padding:0 6px;
-    box-sizing:border-box;
-    border:1px solid #C62828;
-    border-radius:4px;
-    background-color:#C62828;
-    color:#ffffff;
-    text-decoration:none;
-    font-size:11px;
-    line-height:18px;
-    font-weight:600;
-  "
->
-  <i
-    class="fa fa-file-pdf-o"
-    style="margin-right:4px; font-size:11px;"
-  ></i>
-  PDF
-</a>
-
-    <!-- Poster -->
-<a
-  href="./images/poster/Stable-RAG.pdf"
-  target="_blank"
-  style="
-    display:inline-flex;
-    align-items:center;
-    height:18px;
-    padding:0 6px;
-    box-sizing:border-box;
-    border:1px solid #ccc;
-    border-radius:4px;
-    background-color:#F28C28;
-    color:#ffffff;
-    text-decoration:none;
-    font-size:11px;
-    line-height:18px;
-    font-weight:600;
-  "
->
-  <i
-    class="fa fa-picture-o"
-    style="margin-right:4px; font-size:11px;"
-  ></i>
-  Poster
-</a>
-
-</div>
   </li>
 </ul>
-
 
 
 <!-- CompSelect -->
