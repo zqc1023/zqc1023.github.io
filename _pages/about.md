@@ -65,17 +65,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
      <span style="color:#000000;"> The 64th Annual Meeting of the Association for Computational Linguistics.</span> <span style="color:#C62828; font-weight:600;"> (ACL 2026 Main, CCF A) </span>
     </div>
     <!-- Resources -->
-<div
-  style="
-    margin-top:5px;
-    display:flex;
-    align-items:center;
-    gap:6px;
-    flex-wrap:wrap;
-  "
->
+<div style="margin-top:5px; display:flex; align-items:center; gap:6px; lex-wrap:wrap;">
 
-<!-- GitHub -->
+    <!-- GitHub -->
 <a
   href="https://github.com/zqc1023/Stable-RAG"
   target="_blank"
@@ -111,22 +103,31 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
   />
 </a>
 
-<!-- Poster -->
+    <!-- Poster -->
 <a
   href="./images/poster/Stable-RAG.pdf"
   target="_blank"
-  style="display:inline-flex; align-items:center; text-decoration:none;"
+  style="
+    display:inline-flex;
+    align-items:center;
+    height:18px;
+    padding:0 6px;
+    box-sizing:border-box;
+    border:1px solid #ccc;
+    border-radius:4px;
+    background-color:#ffffff;
+    color:#C62828;
+    text-decoration:none;
+    font-size:11px;
+    line-height:18px;
+    font-weight:600;
+  "
 >
-  <img
-    alt="Stable-RAG Poster"
-    src="https://img.shields.io/badge/PDF-Poster-C62828?style=flat-square"
-    style="
-      display:block;
-      height:18px;
-      border:1px solid #ccc;
-      border-radius:4px;
-    "
-  />
+  <i
+    class="fa fa-picture-o"
+    style="margin-right:4px; font-size:11px;"
+  ></i>
+  Poster
 </a>
 
 </div>
@@ -165,15 +166,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     </div>
 
 <!-- Resources -->
-<div
-  style="
-    margin-top:5px;
-    display:flex;
-    align-items:center;
-    gap:6px;
-    flex-wrap:wrap;
-  "
->
+<div style="margin-top:5px; display:flex; align-items:center; gap:6px; lex-wrap:wrap;">
 
 <!-- GitHub -->
 <a
@@ -263,8 +256,10 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
       border-radius:4px;
     "
   />
-</a>
+</a> 
 </div>
+
+
   </li>
 </ul>
 
