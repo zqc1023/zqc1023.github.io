@@ -115,8 +115,8 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     box-sizing:border-box;
     border:1px solid #ccc;
     border-radius:4px;
-    background-color:#ffffff;
-    color:#C62828;
+    background-color:#F28C28;
+    color:#ffffff;
     text-decoration:none;
     font-size:11px;
     line-height:18px;
