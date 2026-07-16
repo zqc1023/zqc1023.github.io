@@ -128,7 +128,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> The 19th International Conference on Knowledge Science, Engineering and Management (**KSEM 2026**) | <span style="color:#C62828; font-weight:600;">CCF C</span>
+      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> KSEM 2026 </strong> (<span style="color:#C62828; font-weight:600;">CCF C</span>)
         </div>
     </td>
   </tr>
