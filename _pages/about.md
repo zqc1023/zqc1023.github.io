@@ -63,7 +63,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
      <span style="color:#000000;"> The 64th Annual Meeting of the Association for Computational Linguistics.</span> <span style="color:#C62828; font-weight:600;"> (ACL 2026 Main, CCF A) </span>
-      ｜
+    </div>
+    <!-- Poster -->
+    <div style="margin-top:5px;">
       <a
         href="./images/poster/Stable-RAG.pdf"
         target="_blank"
@@ -112,7 +114,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <!-- Venue -->
     <div class="fs-14 lh-15" style="margin-top:3px;">
       <i class="fa fa-bank"></i>
-      <span style="color:#000000;"> The ACM Web Conference 2026.</span> <span style="color:#C62828; font-weight:600;"> (WWW 2026 Main, CCF A) </span>
+      <span style="color:#000000;"> The ACM Web Conference 2026.</span> <span style="color:#C62828; font-weight:600;"> (WWW 2026, CCF A) </span>
     </div>
   </li>
 </ul>
