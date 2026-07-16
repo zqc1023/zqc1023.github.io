@@ -65,7 +65,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
      <span style="color:#000000;"> The 64th Annual Meeting of the Association for Computational Linguistics.</span> <span style="color:#C62828; font-weight:600;"> (ACL 2026 Main, CCF A) ｜ AR=18.9% </span>
     </div>
     <!-- Resources -->
-<div style="margin-top:5px; display:flex; align-items:center; gap:6px; lex-wrap:wrap;">
+<div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+
+<!-- Resources icon -->
+
+  <i class="fa fa-link" style="margin-right:2px;"></i>
 
     <!-- GitHub -->
 <a
@@ -193,7 +197,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     </div>
 
 <!-- Resources -->
-<div style="margin-top:5px; display:flex; align-items:center; gap:6px; lex-wrap:wrap;">
+<div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
 
 <!-- GitHub -->
 <a
@@ -294,7 +298,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
 
 <!-- Resources -->
-<div style="margin-top:5px; display:flex; align-items:center; gap:6px; lex-wrap:wrap;">
+<div style="margin-top:5px; display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
   <!-- Google Scholar -->
 <a
   href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=17212725779623653674"
