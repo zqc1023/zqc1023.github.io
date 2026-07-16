@@ -74,26 +74,26 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     flex-wrap:wrap;
   "
 >
-  <!-- Poster -->
-  <a
-    href="./images/poster/Stable-RAG.pdf"
-    target="_blank"
+<!-- Poster -->
+<a
+  href="./images/poster/Stable-RAG.pdf"
+  target="_blank"
+  style="display:inline-flex; align-items:center; text-decoration:none;"
+>
+  <img
+    alt="Stable-RAG Poster"
+    src="https://img.shields.io/badge/Poster-C62828?style=flat-square&logo=adobeacrobatreader&logoColor=white"
     style="
-      display:inline-flex;
-      align-items:center;
-      padding:1px 4px;
-      background-color:#C62828;
-      color:#ffffff;
-      text-decoration:none;
-      border-radius:3px;
-      font-size:inherit;
-      line-height:1.15;
-      font-weight:600;
+      display:block;
+      height:18px;
+      border:1px solid #ccc;
+      border-radius:4px;
     "
-  ><i class="fa fa-picture-o" style="font-size:0.9em; margin-right:3px;"></i>Poster</a>
+  />
+</a>
 
-  <!-- GitHub -->
- <a
+<!-- GitHub -->
+<a
   href="https://github.com/zqc1023/Stable-RAG"
   target="_blank"
   style="display:inline-flex; align-items:center; text-decoration:none;"
@@ -115,6 +115,11 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
   href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=13388958562085683949"
   target="_blank"
 >
+  <img
+    alt="Google Scholar citations"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fmain%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27你的论文key%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+    style="border:1px solid #ccc; border-radius:4px;"
+  />
 </a>
 </div>
   </li>
