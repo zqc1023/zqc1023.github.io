@@ -215,13 +215,13 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
 
   <!-- Google Scholar -->
 <a
-  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=31051737733490796,13318791537714013165"
+  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=31051737733490796"
   target="_blank"
   style="display:inline-flex; align-items:center; text-decoration:none;"
 >
   <img
     alt="Google Scholar Citations"
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:ns9cj8rnVeAC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:NaGl4SEjCO4C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
     style="
       display:block;
       height:18px;
