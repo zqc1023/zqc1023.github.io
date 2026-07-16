@@ -164,7 +164,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
       <span style="color:#000000;"> The ACM Web Conference 2026.</span> <span style="color:#C62828; font-weight:600;"> (WWW 2026, CCF A) </span>
     </div>
 
-    <!-- Resources -->
+<!-- Resources -->
 <div
   style="
     margin-top:5px;
@@ -210,8 +210,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     "
   />
 </a>
-
-
 </div>
 
   </li>
@@ -246,19 +244,9 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
       <span style="color:#000000;"> The 19th International Conference on Knowledge Science, Engineering and Management.</span> <span style="color:#C62828; font-weight:600;"> (KSEM 2026, CCF C) </span>
     </div>
 
-        <!-- Resources -->
-<div
-  style="
-    margin-top:5px;
-    display:flex;
-    align-items:center;
-    gap:6px;
-    flex-wrap:wrap;
-  "
->
 
-<!-- GitHub -->
-
+<!-- Resources -->
+<div style="margin-top:5px; display:flex; align-items:center; gap:6px; lex-wrap:wrap;">
   <!-- Google Scholar -->
 <a
   href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=17212725779623653674"
@@ -276,6 +264,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     "
   />
 </a>
+</div>
   </li>
 </ul>
 
