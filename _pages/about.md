@@ -3,6 +3,28 @@
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 >
+<style>
+.btn-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 9px;
+  margin-left: 3px;
+  border: 1px solid #3a6ea5;
+  border-radius: 4px;
+  color: #3a6ea5 !important;
+  background-color: transparent;
+  text-decoration: none !important;
+  font-size: 13px;
+  line-height: 1.4;
+  transition: all 0.2s ease;
+}
+
+.btn-download:hover {
+  color: white !important;
+  background-color: #3a6ea5;
+}
+</style>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
