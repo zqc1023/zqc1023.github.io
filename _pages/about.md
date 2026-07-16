@@ -103,6 +103,33 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
   />
 </a>
 
+<!-- PDF -->
+<a
+  href="https://aclanthology.org/2026.acl-long.1188.pdf"
+  target="_blank"
+  style="
+    display:inline-flex;
+    align-items:center;
+    height:18px;
+    padding:0 6px;
+    box-sizing:border-box;
+    border:1px solid #C62828;
+    border-radius:4px;
+    background-color:#C62828;
+    color:#ffffff;
+    text-decoration:none;
+    font-size:11px;
+    line-height:18px;
+    font-weight:600;
+  "
+>
+  <i
+    class="fa fa-file-pdf-o"
+    style="margin-right:4px; font-size:11px;"
+  ></i>
+  PDF
+</a>
+
     <!-- Poster -->
 <a
   href="./images/poster/Stable-RAG.pdf"
@@ -203,6 +230,34 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     "
   />
 </a>
+
+<!-- PDF -->
+<a
+  href="https://dl.acm.org/doi/pdf/10.1145/3774904.3792158"
+  target="_blank"
+  style="
+    display:inline-flex;
+    align-items:center;
+    height:18px;
+    padding:0 6px;
+    box-sizing:border-box;
+    border:1px solid #C62828;
+    border-radius:4px;
+    background-color:#C62828;
+    color:#ffffff;
+    text-decoration:none;
+    font-size:11px;
+    line-height:18px;
+    font-weight:600;
+  "
+>
+  <i
+    class="fa fa-file-pdf-o"
+    style="margin-right:4px; font-size:11px;"
+  ></i>
+  PDF
+</a>
+
 </div>
 
   </li>
@@ -257,6 +312,34 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     "
   />
 </a> 
+
+
+<!-- PDF -->
+<a
+  href="https://arxiv.org/pdf/2409.01579"
+  target="_blank"
+  style="
+    display:inline-flex;
+    align-items:center;
+    height:18px;
+    padding:0 6px;
+    box-sizing:border-box;
+    border:1px solid #C62828;
+    border-radius:4px;
+    background-color:#C62828;
+    color:#ffffff;
+    text-decoration:none;
+    font-size:11px;
+    line-height:18px;
+    font-weight:600;
+  "
+>
+  <i
+    class="fa fa-file-pdf-o"
+    style="margin-right:4px; font-size:11px;"
+  ></i>
+  PDF
+</a>
 </div>
 
 
