@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qianchi Zhang (张谦驰)"
-description              : "zhangqianchi@buaa.edu.cn"
+description              : "LLM Hallucinations; RAG"
 repository               : "zqc1023/zqc1023.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qianchi Zhang (张谦驰)"
   avatar           : "images/image.png"
-  bio              : "Ph.D. Student @ School of Artificial Intelligence, Beihang University"
+  bio              : "Ph.D. Student @ BUAA"
   location         : "Beijing, China"
   employer         : "Beihang University"
   pubmed           : 
