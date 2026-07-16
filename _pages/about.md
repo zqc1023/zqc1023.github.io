@@ -163,6 +163,57 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
       <i class="fa fa-bank"></i>
       <span style="color:#000000;"> The ACM Web Conference 2026.</span> <span style="color:#C62828; font-weight:600;"> (WWW 2026, CCF A) </span>
     </div>
+
+    <!-- Resources -->
+<div
+  style="
+    margin-top:5px;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    flex-wrap:wrap;
+  "
+>
+
+<!-- GitHub -->
+<a
+  href="https://github.com/zqc1023/CompSelect"
+  target="_blank"
+  style="display:inline-flex; align-items:center; text-decoration:none;"
+>
+  <img
+    alt="GitHub Repo stars"
+    src="https://img.shields.io/github/stars/zqc1023/CompSelect?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10"
+    style="
+      display:block;
+      height:18px;
+      border:1px solid #ccc;
+      border-radius:4px;
+    "
+  />
+</a>
+
+  <!-- Google Scholar -->
+<a
+  href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=31051737733490796"
+  target="_blank"
+  style="display:inline-flex; align-items:center; text-decoration:none;"
+>
+  <img
+    alt="Google Scholar Citations"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzqc1023%2Fzqc1023.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27tmmwj04AAAAJ:YFjsv_pBGBYC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white"
+    style="
+      display:block;
+      height:18px;
+      border:1px solid #ccc;
+      border-radius:4px;
+    "
+  />
+</a>
+
+
+</div>
+
   </li>
 </ul>
 
