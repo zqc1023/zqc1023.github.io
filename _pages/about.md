@@ -74,23 +74,6 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     flex-wrap:wrap;
   "
 >
-<!-- Poster -->
-<a
-  href="./images/poster/Stable-RAG.pdf"
-  target="_blank"
-  style="display:inline-flex; align-items:center; text-decoration:none;"
->
-  <img
-    alt="Stable-RAG Poster"
-    src="https://img.shields.io/badge/Poster-C62828?style=flat-square&logo=adobeacrobatreader&logoColor=white"
-    style="
-      display:block;
-      height:18px;
-      border:1px solid #ccc;
-      border-radius:4px;
-    "
-  />
-</a>
 
 <!-- GitHub -->
 <a
@@ -121,9 +104,29 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     style="border:1px solid #ccc; border-radius:4px;"
   />
 </a>
+
+<!-- Poster -->
+<a
+  href="./images/poster/Stable-RAG.pdf"
+  target="_blank"
+  style="display:inline-flex; align-items:center; text-decoration:none;"
+>
+  <img
+    alt="Stable-RAG Poster"
+    src="https://img.shields.io/badge/PDF-Poster-C62828?style=flat-square"
+    style="
+      display:block;
+      height:18px;
+      border:1px solid #ccc;
+      border-radius:4px;
+    "
+  />
+</a>
+
 </div>
   </li>
 </ul>
+
 
 
 <!-- CompSelect -->
