@@ -57,8 +57,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main, AR=18.9% </strong> | <span style="color:#C62828; font-weight:600;">CCF A</span> 
-      ｜<a  href="./images/poster/Stable-RAG.pdf" target="_blank"> <span class="icon-poster icon"></span> Poster </a>
+      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i>  <strong> ACL 2026 Main, AR=18.9% </strong> ｜<span style="color:#C62828; font-weight:600;">CCF A</span> ｜ <a  href="./images/poster/Stable-RAG.pdf" target="_blank"> <span class="icon-poster icon"></span> Poster </a>
         </div>
     </td>
   </tr>
@@ -82,7 +81,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Yongxin Tong, Hongwei Zheng, and Zhiming Zheng.
   </div>
-        <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> WWW 2026, AR=20.1% </strong> | <span style="color:#C62828; font-weight:600;">CCF A</span>
+        <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> WWW 2026, AR=20.1% </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF A</span>
         </div>
 ​      <br/>
 ​    </td>
@@ -107,7 +106,7 @@ Hi! This is Qianchi Zhang (张谦驰), a first-year PhD student at **School of A
     <i class="fa fa-user"></i>
     <strong><u>Qianchi Zhang</u></strong>, Hainan Zhang<sup>†</sup>, Liang Pang, Hongwei Zheng, and Zhiming Zheng.
   </div>
-      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> KSEM 2026 </strong> | <span style="color:#C62828; font-weight:600;">CCF C</span>
+      <div class="fs-14 lh-15" style="margin-top:3px;"><i class="fa fa-bank"></i> <strong> KSEM 2026 </strong> ｜ <span style="color:#C62828; font-weight:600;">CCF C</span>
         </div>
     </td>
   </tr>
