@@ -587,7 +587,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 # 🧑‍⚖️ Academic Services
 
 - **Journal Reviewer**: TKDE, TMM, TAI
-- **Conference Reviewer**: ACL Rolling Review
+- **Conference Reviewer**: ACL Rolling Review, AAAI
 
 
 
