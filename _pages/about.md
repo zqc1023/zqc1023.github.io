@@ -26,8 +26,8 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a>!
-- *2026.01*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a>!
+>- *2026.04*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a>!
+>- *2026.01*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a>!
 
 
 <span class="anchor" id="publications"></span>
@@ -586,8 +586,12 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 
 # 🧑‍⚖️ Academic Services
 
-- **Journal Reviewer**: TKDE, TMM, TAI
-- **Conference Reviewer**: ACL Rolling Review, AAAI
+- PC Member: ACL Rolling Review (ARR), ACL, EMNLP, EACL, AAAI
+- Journal Reviewer: 
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - IEEE Transactions on Multimedia (TMM)
+  - IEEE Transactions on Artificial Intelligence (TAI)
+
 
 
 
