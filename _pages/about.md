@@ -26,8 +26,21 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 
 
 # 🔥 News
->- *2026.04*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a>!
->- *2026.01*: &nbsp;🎉🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a>!
+
+<style>
+.news-scroll { max-height: 280px; overflow-y: auto; border: 1px solid #e8e8e8; border-radius: 8px; padding: 0.55rem 0.9rem 0.55rem 0.5rem; background: #fafafa; }
+.news-scroll ul { margin: 0; padding-left: 1.25em; }
+.news-scroll li { margin: 0.55em 0; line-height: 1.55; }
+.news-scroll li:first-child { margin-top: 0.25em; }
+.news-scroll li:last-child { margin-bottom: 0.25em; }
+</style>
+<div class="news-scroll compact-section">
+<ul>
+<li><em>2026.04</em>: 🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a></li>
+<li><em>2026.01</em>: 🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a></li>
+
+</ul>
+</div>
 
 
 <span class="anchor" id="publications"></span>
@@ -586,7 +599,7 @@ Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial In
 
 # 🧑‍⚖️ Academic Services
 
-- PC Member: ACL Rolling Review (ARR), ACL, EMNLP, EACL, AAAI
+- PC Member: ACL Rolling Review (ARR), EMNLP, EACL, AAAI
 - Journal Reviewer: 
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - IEEE Transactions on Multimedia (TMM)
