@@ -18,7 +18,7 @@
 
 # 💡 About Me
 
-Hi! This is Qianchi Zhang, a first-year PhD student at **School of Artificial Intelligence, Beihang University**. My research focuses on **LLM Hallucinations** and **Trustworthy Retrieval-Augmented Generation**.
+Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial Intelligence, Beihang University**. My research focuses on **LLM Hallucinations** and **Trustworthy Retrieval-Augmented Generation**.
 
 
 
