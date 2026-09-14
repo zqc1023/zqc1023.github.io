@@ -577,10 +577,12 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
 <span class="anchor" id="awards"></span>
 
 # 🎖 Honors and Awards
-
-- *2025*: Second Prize Outstanding Student Scholarship, Beihang University
-
-- *2023*: Outstanding Graduate in Beijing Forestry University.
+- *2026*: Outstanding Graduate Student, Beihang University.
+- *2026*: YSSNLP 2026 Spotlight Poster, Chinese Information Processing Society of China.
+- *2025*: Second Prize Outstanding Student Scholarship, Beihang University.
+- *2023*: Outstanding Graduate, Beijing Forestry University.
+- *2022*: Second-Class Scholarship for Undergraduate Students, Beijing Forestry University.
+- *2021*: First-Class Scholarship for Undergraduate Students, Beijing Forestry University.
 - *2020-2022*: China National Encouragement Scholarship.
 
 
@@ -589,7 +591,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
 
 # 🎤 Invited Talks
 
-- *2026.07*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, YSSNLP 2026 Spotlight Poster.
+- *2026.07*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, YSSNLP 2026 Poster.
 
 - *2026.03*: “Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation”, CCIR PhD Forum.
 
