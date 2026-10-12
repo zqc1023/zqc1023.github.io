@@ -577,6 +577,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
 <span class="anchor" id="awards"></span>
 
 # 🎖 Honors and Awards
+- *2026*: National Scholarship, Ministry of Education of China.（博士研究生国家奖学金）
 - *2026*: Outstanding Graduate Student, Beihang University.
 - *2026*: YSSNLP 2026 Spotlight Poster, Chinese Information Processing Society of China.
 - *2025*: Second Prize Outstanding Student Scholarship, Beihang University.
