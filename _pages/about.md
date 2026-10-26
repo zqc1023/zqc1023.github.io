@@ -576,7 +576,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
 
 <span class="anchor" id="awards"></span>
 
-# Preprints
+# 📄 Preprints
 
 <!-- CalibraRL -->
 <ul style="padding-left:22px; margin-bottom:20px;">
@@ -591,7 +591,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
         font-weight:bold;
       "
     >
-      CalibraRL: Confidence-Calibrated Reinforcement Learning for Mitigating Hallucinations in RAG
+      CalibraRL: Confidence-Calibrated Reinforcement Learning for Mitigating Hallucinations in RAG.
     </a>
     <!-- Authors -->
     <div
@@ -721,7 +721,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
         font-weight:bold;
       "
     >
-     Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models
+     Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models.
     </a>
     <!-- Authors -->
     <div
