@@ -167,7 +167,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
         />
       </a>
       <!-- Google Scholar -->
-      <a
+      <!-- <a
         href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=13388958562085683949"
         target="_blank"
         style="
@@ -186,7 +186,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
             border-radius:4px;
           "
         />
-      </a>
+      </a> -->
       <!-- PDF -->
       <a
         href="https://aclanthology.org/2026.acl-long.1188.pdf"
@@ -369,7 +369,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
         />
       </a>
       <!-- Google Scholar -->
-      <a
+      <!-- <a
         href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=31051737733490796,13318791537714013165"
         target="_blank"
         style="
@@ -388,7 +388,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
             border-radius:4px;
           "
         />
-      </a>
+      </a> -->
       <!-- PDF -->
       <a
         href="https://dl.acm.org/doi/pdf/10.1145/3774904.3792158"
@@ -520,7 +520,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
         "
       ></i>
       <!-- Google Scholar -->
-      <a
+      <!-- <a
         href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=17212725779623653674"
         target="_blank"
         style="
@@ -539,7 +539,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
             border-radius:4px;
           "
         />
-      </a>
+      </a> -->
       <!-- PDF -->
       <a
         href="https://arxiv.org/pdf/2409.01579"
@@ -576,6 +576,265 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
 
 <span class="anchor" id="awards"></span>
 
+# Preprints
+
+<!-- CalibraRL -->
+<ul style="padding-left:22px; margin-bottom:20px;">
+  <li style="padding-left:2px;">
+    <!-- Title -->
+    <a
+      href=""
+      target="_blank"
+      style="
+        text-decoration:none;
+        color:#3a6ea5;
+        font-weight:bold;
+      "
+    >
+      CalibraRL: Confidence-Calibrated Reinforcement Learning for Mitigating Hallucinations in RAG
+    </a>
+    <!-- Authors -->
+    <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:8px;
+        display:flex;
+        align-items:center;
+      "
+    >
+      <i
+        class="fa fa-user"
+        title="Authors"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      <span>
+        <strong><u>Qianchi Zhang</u></strong>,
+        Hainan Zhang<sup>†</sup>,
+        Liang Pang,
+        Hongwei Zheng,
+        and Zhiming Zheng.
+      </span>
+    </div>
+    <!-- Venue -->
+    <!-- <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:3px;
+        display:flex;
+        align-items:center;
+      "
+    >
+      <i
+        class="fa fa-bank"
+        title="Venue"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      <span>
+        <span>
+          The 19th International Conference on Knowledge Science, Engineering and Management.
+        </span>
+        <span style="color:#C62828; font-weight:600;">
+          (KSEM 2026, CCF C)
+        </span>
+      </span>
+    </div> -->
+    <!-- Resources -->
+    <!-- <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:5px;
+        display:flex;
+        align-items:center;
+        flex-wrap:wrap;
+        column-gap:6px;
+        row-gap:4px;
+      "
+    > -->
+      <!-- <i
+        class="fa fa-link"
+        title="Resources"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      PDF
+      <a
+        href="https://arxiv.org/pdf/2409.01579"
+        target="_blank"
+        style="
+          display:inline-flex;
+          align-items:center;
+          height:18px;
+          padding:0 6px;
+          box-sizing:border-box;
+          border:1px solid #C62828;
+          border-radius:4px;
+          background-color:#C62828;
+          color:#ffffff;
+          text-decoration:none;
+          font-size:11px;
+          line-height:18px;
+          font-weight:600;
+        "
+      >
+        <i
+          class="fa fa-file-pdf-o"
+          style="
+            margin-right:4px;
+            font-size:11px;
+          "
+        ></i>
+        PDF
+      </a>
+    </div> -->
+
+  </li>
+</ul>
+
+
+<!--  -->
+<ul style="padding-left:22px; margin-bottom:20px;">
+  <li style="padding-left:2px;">
+    <!-- Title -->
+    <a
+      href=""
+      target="_blank"
+      style="
+        text-decoration:none;
+        color:#3a6ea5;
+        font-weight:bold;
+      "
+    >
+     Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models
+    </a>
+    <!-- Authors -->
+    <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:8px;
+        display:flex;
+        align-items:center;
+      "
+    >
+      <i
+        class="fa fa-user"
+        title="Authors"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      <span>
+      Shule Lu, Hainan Zhang, Yujing Wang, <strong><u>Qianchi Zhang</u></strong>, Xiaoshan Yang, Hongwei Zheng, Yongxin Tong, Zhiming Zheng 
+      </span>
+    </div>
+    <!-- Venue -->
+    <!-- <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:3px;
+        display:flex;
+        align-items:center;
+      "
+    >
+      <i
+        class="fa fa-bank"
+        title="Venue"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      <span>
+        <span>
+          The 19th International Conference on Knowledge Science, Engineering and Management.
+        </span>
+        <span style="color:#C62828; font-weight:600;">
+          (KSEM 2026, CCF C)
+        </span>
+      </span>
+    </div> -->
+    <!-- Resources -->
+    <!-- <div
+      class="fs-14 lh-15"
+      style="
+        margin-top:5px;
+        display:flex;
+        align-items:center;
+        flex-wrap:wrap;
+        column-gap:6px;
+        row-gap:4px;
+      "
+    > -->
+      <!-- <i
+        class="fa fa-link"
+        title="Resources"
+        style="
+          width:16px;
+          margin-right:4px;
+          color:#666;
+          text-align:center;
+          flex-shrink:0;
+        "
+      ></i>
+      PDF
+      <a
+        href="https://arxiv.org/pdf/2409.01579"
+        target="_blank"
+        style="
+          display:inline-flex;
+          align-items:center;
+          height:18px;
+          padding:0 6px;
+          box-sizing:border-box;
+          border:1px solid #C62828;
+          border-radius:4px;
+          background-color:#C62828;
+          color:#ffffff;
+          text-decoration:none;
+          font-size:11px;
+          line-height:18px;
+          font-weight:600;
+        "
+      >
+        <i
+          class="fa fa-file-pdf-o"
+          style="
+            margin-right:4px;
+            font-size:11px;
+          "
+        ></i>
+        PDF
+      </a>
+    </div> -->
+
+  </li>
+</ul>
+
+<span class="anchor" id="awards"></span>
+
 # 🎖 Honors and Awards
 - *2026*: National Scholarship, Ministry of Education of China.（博士研究生国家奖学金）
 - *2026*: Outstanding Graduate Student, Beihang University.
@@ -602,7 +861,7 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
 
 # 🧑‍⚖️ Academic Services
 
-- PC Member: ACL Rolling Review (ARR), EMNLP, EACL, AAAI
+- PC Member: ACL Rolling Review (ARR), WWW, AAAI, EMNLP
 - Journal Reviewer: 
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - IEEE Transactions on Multimedia (TMM)
