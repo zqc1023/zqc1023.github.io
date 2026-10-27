@@ -36,8 +36,10 @@ Hi! This is Qianchi Zhang, a second-year PhD student at **School of Artificial I
 </style>
 <div class="news-scroll compact-section">
 <ul>
-<li><em>2026.04</em>: 🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a></li>
-<li><em>2026.01</em>: 🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a></li>
+<li><em>2026.10</em>: 🚀🚀 Excited to share our new preprint, <a href="https://arxiv.org/pdf/2610.35142v1" style="color:#3a6ea5; text-decoration: underline;">CalibraRL</a>!</li>
+<li><em>2026.10</em>: 🎉🎉 Honored to receive the National Scholarship (Top 2%)! </li>
+<li><em>2026.04</em>: 🎉🎉 One first-author paper is accepted to <a href="https://2026.aclweb.org/" style="color:#3a6ea5; text-decoration: underline;">ACL 2026 Main</a></li>
+<li><em>2026.01</em>: 🎉🎉 One first-author paper is accepted to <a href="https://www2026.thewebconf.org/" style="color:#3a6ea5; text-decoration: underline;">WWW 2026</a></li>
 
 </ul>
 </div>
